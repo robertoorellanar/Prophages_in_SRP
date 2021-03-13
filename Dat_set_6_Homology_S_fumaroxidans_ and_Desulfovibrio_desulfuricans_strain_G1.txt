@@ -1,0 +1,2487 @@
+RID: 2UHRCJGC013	
+Job Title: 83R1|gi|116696516|gb|CP000478.1|Complete_1 				
+Program:  
+Database: nt Nucleotide collection (nt)
+Query #1: 83R1|gi|116696516|gb|CP000478.1|Complete_1 Query ID: lcl|Query_158181 Length: 133
+
+No significant similarity found.
+
+
+
+Query #2: 83R1|gi|116696516|gb|CP000478.1|Complete_2 Query ID: lcl|Query_158182 Length: 120
+
+No significant similarity found.
+
+
+
+Query #3: 83R1|gi|116696516|gb|CP000478.1|Complete_3 Query ID: lcl|Query_158183 Length: 80
+
+No significant similarity found.
+
+
+
+Query #4: 83R1|gi|116696516|gb|CP000478.1|Complete_4 Query ID: lcl|Query_158184 Length: 198
+
+No significant similarity found.
+
+
+
+Query #5: 83R1|gi|116696516|gb|CP000478.1|Complete_5 Query ID: lcl|Query_158185 Length: 513
+
+No significant similarity found.
+
+
+
+Query #6: 83R1|gi|116696516|gb|CP000478.1|Complete_6 Query ID: lcl|Query_158186 Length: 582
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     233    233   64%   3e-66 35.29  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     233    233   64%   3e-66 35.29  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2918868 to 2919986
+
+Score:233 bits(593), Expect:3e-66, 
+Method:Compositional matrix adjust., 
+Identities:141/391(36%), Positives:223/391(57%), Gaps:33/391(8%)
+
+Query  33       DRWSNYPSNGLTPERLARIFREADHGDMLRQAELFEEMEEKDAHLASQFQVRKLAVQGLP  92
+                ++W +  + GLTP RL RI   AD G ++ Q  LF +ME++  HL+++   R+ A+  L 
+Sbjct  2919986  EQWGDL-TRGLTPARLVRILEAADAGQIMEQHALFADMEDRCDHLSAEMGKRRRALLTLD  2919810
+
+Query  93       WEVTPrtetararetaaFCRDFLEGFTDFEEHVLDLLDALAKGYSTMEILWETSAGQSRI  152
+                W + P ++ A+A++ A   R++ +   DFE+ +LD+ D +  G+S +E+ WE S G    
+Sbjct  2919809  WNIIPASDDAKAKDAAEKVREWFDMLPDFEDVLLDMADGIGHGFSALELQWEFSEG----  2919642
+
+Query  153      RGLRWVH-PKKVTF----W--------DSVSPRILTVEEPVRGIDPPPFKFVYHRYKARS  199
+                     +H P ++TF    W        + +  R  T+E    G    P  ++ H+++++S
+Sbjct  2919641  -----IHLPSELTFRPQSWFTCPQNDRNCLHLRDGTLE----GAPLWPLGWIVHKHRSKS  2919489
+
+Query  200      GHDTRSGLMRVCAWMYLFKNYSIKDWVAFAEIYGMPLRIGRYEPGASRMDREALVQAVRS  259
+                G   R+GL RV AW YL + Y++   +AF +I+G+P+R+G+Y PG+S+ D+ AL+ A+R+
+Sbjct  2919488  GWLPRAGLFRVLAWTYLIRAYALNSEMAFTQIHGLPMRVGKYPPGSSKDDKHALLNALRT  2919309
+
+Query  260      LGTDAAGVISKSTEIEFIETQRSSSQNVYESLARFCDAQTSKAVLGQTLTSEAGSPGGTG  319
+                LG DAAG+I +  +I F ET   ++Q++   L   C+   SKA+LG TLTS+A   G T 
+Sbjct  2919308  LGQDAAGIIPQGMDIVF-ETVNPATQDIPGLLVERCERGMSKAILGGTLTSQAD--GKTS  2919138
+
+Query  320      SYALGRVHGEVRHDLVAADCRALGKTITQQLLGPLVGFNYGWD--APVPRFGFLFEPPED  377
+                ++ALG VH E+RHDL+ AD   L  T+T QL+ PL   N G      +P F F  +  ED
+Sbjct  2919137  THALGMVHNEIRHDLLVADAAQLASTLTAQLVAPLCALNLGITDRKLLPYFRFDTQQAED  2918958
+
+Query  378      LRAAAETYRILAEMGFDLSQEHLSQRFKVPV  408
+                L   A     LA     +S   + +R K+PV
+Sbjct  2918957  LELYANAIPSLAPY-LPISSRGIMERLKLPV  2918868
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 993353 to 994471
+
+Score:233 bits(593), Expect:3e-66, 
+Method:Compositional matrix adjust., 
+Identities:141/391(36%), Positives:223/391(57%), Gaps:33/391(8%)
+
+Query  33      DRWSNYPSNGLTPERLARIFREADHGDMLRQAELFEEMEEKDAHLASQFQVRKLAVQGLP  92
+               ++W +  + GLTP RL RI   AD G ++ Q  LF +ME++  HL+++   R+ A+  L 
+Sbjct  994471  EQWGDL-TRGLTPARLVRILEAADAGQIMEQHALFADMEDRCDHLSAEMGKRRRALLTLD  994295
+
+Query  93      WEVTPrtetararetaaFCRDFLEGFTDFEEHVLDLLDALAKGYSTMEILWETSAGQSRI  152
+               W + P ++ A+A++ A   R++ +   DFE+ +LD+ D +  G+S +E+ WE S G    
+Sbjct  994294  WNIIPASDDAKAKDAAEKVREWFDMLPDFEDVLLDMADGIGHGFSALELQWEFSEG----  994127
+
+Query  153     RGLRWVH-PKKVTF----W--------DSVSPRILTVEEPVRGIDPPPFKFVYHRYKARS  199
+                    +H P ++TF    W        + +  R  T+E    G    P  ++ H+++++S
+Sbjct  994126  -----IHLPSELTFRPQSWFTCPQNDRNCLHLRDGTLE----GAPLWPLGWIVHKHRSKS  993974
+
+Query  200     GHDTRSGLMRVCAWMYLFKNYSIKDWVAFAEIYGMPLRIGRYEPGASRMDREALVQAVRS  259
+               G   R+GL RV AW YL + Y++   +AF +I+G+P+R+G+Y PG+S+ D+ AL+ A+R+
+Sbjct  993973  GWLPRAGLFRVLAWTYLIRAYALNSEMAFTQIHGLPMRVGKYPPGSSKDDKHALLNALRT  993794
+
+Query  260     LGTDAAGVISKSTEIEFIETQRSSSQNVYESLARFCDAQTSKAVLGQTLTSEAGSPGGTG  319
+               LG DAAG+I +  +I F ET   ++Q++   L   C+   SKA+LG TLTS+A   G T 
+Sbjct  993793  LGQDAAGIIPQGMDIVF-ETVNPATQDIPGLLVERCERGMSKAILGGTLTSQAD--GKTS  993623
+
+Query  320     SYALGRVHGEVRHDLVAADCRALGKTITQQLLGPLVGFNYGWD--APVPRFGFLFEPPED  377
+               ++ALG VH E+RHDL+ AD   L  T+T QL+ PL   N G      +P F F  +  ED
+Sbjct  993622  THALGMVHNEIRHDLLVADAAQLASTLTAQLVAPLCALNLGITDRKLLPYFRFDTQQAED  993443
+
+Query  378     LRAAAETYRILAEMGFDLSQEHLSQRFKVPV  408
+               L   A     LA     +S   + +R K+PV
+Sbjct  993442  LELYANAIPSLAPY-LPISSRGIMERLKLPV  993353
+
+
+
+
+
+Query #7: 83R1|gi|116696516|gb|CP000478.1|Complete_7 Query ID: lcl|Query_158187 Length: 458
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     180    180   44%   1e-49 42.86  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     180    180   44%   1e-49 42.86  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2917628 to 2918353
+
+Score:180 bits(457), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:105/245(43%), Positives:131/245(53%), Gaps:44/245(17%)
+
+Query  8        LPFTEAIEFFNAKNIVVSPDSWRDVWASEHVHAFTVARVTAIDVLEDIRKAVGKAVADGT  67
+                LP  EAI +F +K   +S   W+D W   H  AFTVA VT  D+L DI+ A  KA+A+G 
+Sbjct  2918353  LPPREAIRYFESKGHKIS-FRWQDTWREAHARAFTVAGVTKADLLADIKAATAKALAEGQ  2918177
+
+Query  68       SIQQFKSGLSRLLAAKGWFS----------EKRDRPPGALTGPRLETIYRTNLQSAYQAG  117
+                S  QF+ GL   L  KGW+           E R    G+ +  RL  IYR N+QSAY AG
+Sbjct  2918176  SKAQFRHGLEDTLKRKGWWGKGDIVNPDTGEVRKGERGSAS--RLNLIYRQNMQSAYNAG  2918003
+
+Query  118      RFKQLVETAHVRPYWMYDAVGDHRTRPLHAALNGKVYRFDHPFWNAWYPPNGFNCRCTVR  177
+                R+KQ VE+A V PYW Y A+ D RTRP HAA+NG VYR+D P W   YPPNG++CRC V 
+Sbjct  2918002  RYKQQVESAAVAPYWRYMAIMDARTRPSHAAMNGLVYRYDDPIWQTMYPPNGWHCRCRVD  2917823
+
+Query  178      SLSEDRFERMKLPLENEAP---------------------------PHG----PDPGFDF  206
+                +LSE  F+R    L++                              P+G    PD GFD+
+Sbjct  2917822  TLSERGFKRGGYALQDSGGDAIEKEVIIRNPDTGQPEPRTVTGYRMPNGSHFFPDAGFDY  2917643
+
+Query  207      NPGMV  211
+                NPG  
+Sbjct  2917642  NPGQT  2917628
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 992113 to 992838
+
+Score:180 bits(457), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:105/245(43%), Positives:131/245(53%), Gaps:44/245(17%)
+
+Query  8       LPFTEAIEFFNAKNIVVSPDSWRDVWASEHVHAFTVARVTAIDVLEDIRKAVGKAVADGT  67
+               LP  EAI +F +K   +S   W+D W   H  AFTVA VT  D+L DI+ A  KA+A+G 
+Sbjct  992838  LPPREAIRYFESKGHKIS-FRWQDTWREAHARAFTVAGVTKADLLADIKAATAKALAEGQ  992662
+
+Query  68      SIQQFKSGLSRLLAAKGWFS----------EKRDRPPGALTGPRLETIYRTNLQSAYQAG  117
+               S  QF+ GL   L  KGW+           E R    G+ +  RL  IYR N+QSAY AG
+Sbjct  992661  SKAQFRHGLEDTLKRKGWWGKGDIVNPDTGEVRKGERGSAS--RLNLIYRQNMQSAYNAG  992488
+
+Query  118     RFKQLVETAHVRPYWMYDAVGDHRTRPLHAALNGKVYRFDHPFWNAWYPPNGFNCRCTVR  177
+               R+KQ VE+A V PYW Y A+ D RTRP HAA+NG VYR+D P W   YPPNG++CRC V 
+Sbjct  992487  RYKQQVESAAVAPYWRYMAIMDARTRPSHAAMNGLVYRYDDPIWQTMYPPNGWHCRCRVD  992308
+
+Query  178     SLSEDRFERMKLPLENEAP---------------------------PHG----PDPGFDF  206
+               +LSE  F+R    L++                              P+G    PD GFD+
+Sbjct  992307  TLSERGFKRGGYALQDSGGDAIEKEVIIRNPDTGQPEPRTVTGYRMPNGSHFFPDAGFDY  992128
+
+Query  207     NPGMV  211
+               NPG  
+Sbjct  992127  NPGQT  992113
+
+
+
+
+
+Query #8: 83R1|gi|116696516|gb|CP000478.1|Complete_8 Query ID: lcl|Query_158188 Length: 168
+
+No significant similarity found.
+
+
+
+Query #9: 83R1|gi|116696516|gb|CP000478.1|Complete_9 Query ID: lcl|Query_158189 Length: 359
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     104    104   78%   6e-25 31.77  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     104    104   78%   6e-25 31.77  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2915177 to 2916007
+
+Score:104 bits(260), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:95/299(32%), Positives:144/299(48%), Gaps:38/299(12%)
+
+Query  64       VVDYEHQT----EEGNPAPAAGWIKALENRGEDGLWARVEWTERAGEYLANREYRYFSPV  119
+                VVDYEHQT    + G PAPAAGWI+ LE   E GL+A VEWT+RA   +  +EY+Y SPV
+Sbjct  2916007  VVDYEHQTHLSDKNGQPAPAAGWIEGLEITAE-GLFATVEWTDRARAAIRAKEYQYISPV  2915831
+
+Query  120      FLVSRTDRRLMELLRVALTNAPRLNRLRPIVARI--DAEPQLALTSTSTRTEEGMYLERN  177
+                F   +T   +++L+ VALTN P L+ ++P  A+   +  P +         E+ + + R 
+Sbjct  2915830  FAWDKTTGAVLDLVSVALTNHPALDGMQPAQAKTIEEGNPHM---------EKLLAMLR-  2915681
+
+Query  178      AKPLGPPEGAQEQDVTEAVEKPARQTAAASGAFVENSGTGSACVACADVRRVLELPGDAG  237
+                 K LG PE A +   T A+    ++   A    +  S   +  VA   +      P DA 
+Sbjct  2915680  -KLLGLPETADDAACTAALATLPQENLIA----LLKSKDDALTVAQTAIATAKATPPDAS  2915516
+
+Query  238      AGEVIASIHALRQRPDLGVEVAELRRKLAEHDRDDLVA-------AALREGKITPAQKEW  290
+                    IA+  +++       E A+LR K+AE +    VA       AAL++G++  + K+W
+Sbjct  2915515  QYVSIATFQSVQ------TEAAQLRAKVAELEGAQSVAALSADIDAALKDGRLAVSAKDW  2915354
+
+Query  291      AQTYALRDPAGFRLFTAKAPRVVRTESLDIIGDVRPG---GPASSDGEQTIINRMMGIS  346
+                A   A  +P   R F   A  +   +        +PG   G AS   E   +   +G++
+Sbjct  2915353  ALGMAKSNPDSLRAFLKAATPIEALKGQQSAASGQPGDDAGLASLTAEDKYVCAQLGMT  2915177
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 989662 to 990492
+
+Score:104 bits(260), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:95/299(32%), Positives:144/299(48%), Gaps:38/299(12%)
+
+Query  64      VVDYEHQT----EEGNPAPAAGWIKALENRGEDGLWARVEWTERAGEYLANREYRYFSPV  119
+               VVDYEHQT    + G PAPAAGWI+ LE   E GL+A VEWT+RA   +  +EY+Y SPV
+Sbjct  990492  VVDYEHQTHLSDKNGQPAPAAGWIEGLEITAE-GLFATVEWTDRARAAIRAKEYQYISPV  990316
+
+Query  120     FLVSRTDRRLMELLRVALTNAPRLNRLRPIVARI--DAEPQLALTSTSTRTEEGMYLERN  177
+               F   +T   +++L+ VALTN P L+ ++P  A+   +  P +         E+ + + R 
+Sbjct  990315  FAWDKTTGAVLDLVSVALTNHPALDGMQPAQAKTIEEGNPHM---------EKLLAMLR-  990166
+
+Query  178     AKPLGPPEGAQEQDVTEAVEKPARQTAAASGAFVENSGTGSACVACADVRRVLELPGDAG  237
+                K LG PE A +   T A+    ++   A    +  S   +  VA   +      P DA 
+Sbjct  990165  -KLLGLPETADDAACTAALATLPQENLIA----LLKSKDDALTVAQTAIATAKATPPDAS  990001
+
+Query  238     AGEVIASIHALRQRPDLGVEVAELRRKLAEHDRDDLVA-------AALREGKITPAQKEW  290
+                   IA+  +++       E A+LR K+AE +    VA       AAL++G++  + K+W
+Sbjct  990000  QYVSIATFQSVQ------TEAAQLRAKVAELEGAQSVAALSADIDAALKDGRLAVSAKDW  989839
+
+Query  291     AQTYALRDPAGFRLFTAKAPRVVRTESLDIIGDVRPG---GPASSDGEQTIINRMMGIS  346
+               A   A  +P   R F   A  +   +        +PG   G AS   E   +   +G++
+Sbjct  989838  ALGMAKSNPDSLRAFLKAATPIEALKGQQSAASGQPGDDAGLASLTAEDKYVCAQLGMT  989662
+
+
+
+
+
+Query #10: 83R1|gi|116696516|gb|CP000478.1|Complete_10 Query ID: lcl|Query_158190 Length: 131
+
+No significant similarity found.
+
+
+
+Query #11: 83R1|gi|116696516|gb|CP000478.1|Complete_11 Query ID: lcl|Query_158191 Length: 293
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     231    231   96%   3e-69 40.73  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     231    231   96%   3e-69 40.73  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2914212 to 2915117
+
+Score:231 bits(588), Expect:3e-69, 
+Method:Compositional matrix adjust., 
+Identities:128/302(42%), Positives:170/302(56%), Gaps:20/302(6%)
+
+Query  11       IYKSFRTIFSEAWDTA---APSQWPLVAMEVPSEAREENYDWLGDLPMMKEWVGNRVIRD  67
+                +  S R  FS+ ++ A   APSQW L A  VPS A+   Y WLG  P ++EWVG R ++ 
+Sbjct  2915117  LLASMRVGFSKTFEDAKAKAPSQWALAATHVPSTAKSTTYGWLGQYPKLREWVGPRTVKS  2914938
+
+Query  68       LSAFHYAIVNKDFEATIEVDRNDVEDDRIGIHRPRILQLADAARRHPDLLVFDLLGKGFS  127
+                +    Y+I NK +E T+ V R D+EDD +G++ P + ++  AA  HPD LVF LLGKG +
+Sbjct  2914937  MQEHGYSITNKLYEGTVGVQRTDIEDDNLGVYTPLLAEMGYAAATHPDELVFGLLGKGTT  2914758
+
+Query  128      TTCYDGQYFFDTDHPsaggsvsnfgggsgT------------AWFLMDLSRPMKPIILQI  175
+                T CYDGQ FFDTDHP            + +            AW+++D SRP+KP+I Q 
+Sbjct  2914757  TLCYDGQNFFDTDHPVYPQVDGTGDAVTVSNLIDPAAGDPGLAWYILDASRPLKPLIFQE  2914578
+
+Query  176      RKRPELVALDDPGNENVFMRRKYRYGVDDRKNVGFGLWQLAYASRETLTaanyavaraaM  235
+                R +PEL A+ DP  ++VF + +Y YGV  R N GFG WQ A   R+TL AAN+  A A M
+Sbjct  2914577  RTKPELQAIIDPKQDHVFTQDEYLYGVRYRCNAGFGFWQQAVCCRDTLNAANFGKALALM  2914398
+
+Query  236      MGLKNEDGVPL-----GITPTHLVVPPTLESAGRSVLKVINDAAGAGNPWYGTAELAVVP  290
+                 G K + G PL     G + T LVVP +L SA   V+ V     G  N +Y  A +    
+Sbjct  2914397  QGYKADGGRPLALGRGGKSGTLLVVPSSLYSAALDVVGVQLINGGESNKYYDAATIINCA  2914218
+
+Query  291      WL  292
+                WL
+Sbjct  2914217  WL  2914212
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 988697 to 989602
+
+Score:231 bits(588), Expect:3e-69, 
+Method:Compositional matrix adjust., 
+Identities:128/302(42%), Positives:170/302(56%), Gaps:20/302(6%)
+
+Query  11      IYKSFRTIFSEAWDTA---APSQWPLVAMEVPSEAREENYDWLGDLPMMKEWVGNRVIRD  67
+               +  S R  FS+ ++ A   APSQW L A  VPS A+   Y WLG  P ++EWVG R ++ 
+Sbjct  989602  LLASMRVGFSKTFEDAKAKAPSQWALAATHVPSTAKSTTYGWLGQYPKLREWVGPRTVKS  989423
+
+Query  68      LSAFHYAIVNKDFEATIEVDRNDVEDDRIGIHRPRILQLADAARRHPDLLVFDLLGKGFS  127
+               +    Y+I NK +E T+ V R D+EDD +G++ P + ++  AA  HPD LVF LLGKG +
+Sbjct  989422  MQEHGYSITNKLYEGTVGVQRTDIEDDNLGVYTPLLAEMGYAAATHPDELVFGLLGKGTT  989243
+
+Query  128     TTCYDGQYFFDTDHPsaggsvsnfgggsgT------------AWFLMDLSRPMKPIILQI  175
+               T CYDGQ FFDTDHP            + +            AW+++D SRP+KP+I Q 
+Sbjct  989242  TLCYDGQNFFDTDHPVYPQVDGTGDAVTVSNLIDPAAGDPGLAWYILDASRPLKPLIFQE  989063
+
+Query  176     RKRPELVALDDPGNENVFMRRKYRYGVDDRKNVGFGLWQLAYASRETLTaanyavaraaM  235
+               R +PEL A+ DP  ++VF + +Y YGV  R N GFG WQ A   R+TL AAN+  A A M
+Sbjct  989062  RTKPELQAIIDPKQDHVFTQDEYLYGVRYRCNAGFGFWQQAVCCRDTLNAANFGKALALM  988883
+
+Query  236     MGLKNEDGVPL-----GITPTHLVVPPTLESAGRSVLKVINDAAGAGNPWYGTAELAVVP  290
+                G K + G PL     G + T LVVP +L SA   V+ V     G  N +Y  A +    
+Sbjct  988882  QGYKADGGRPLALGRGGKSGTLLVVPSSLYSAALDVVGVQLINGGESNKYYDAATIINCA  988703
+
+Query  291     WL  292
+               WL
+Sbjct  988702  WL  988697
+
+
+
+
+
+Query #12: 83R1|gi|116696516|gb|CP000478.1|Complete_12 Query ID: lcl|Query_158192 Length: 95
+
+No significant similarity found.
+
+
+
+Query #13: 83R1|gi|116696516|gb|CP000478.1|Complete_13 Query ID: lcl|Query_158193 Length: 143
+
+No significant similarity found.
+
+
+
+Query #14: 83R1|gi|116696516|gb|CP000478.1|Complete_14 Query ID: lcl|Query_158194 Length: 146
+
+No significant similarity found.
+
+
+
+Query #15: 83R1|gi|116696516|gb|CP000478.1|Complete_15 Query ID: lcl|Query_158195 Length: 63
+
+No significant similarity found.
+
+
+
+Query #16: 83R1|gi|116696516|gb|CP000478.1|Complete_16 Query ID: lcl|Query_158196 Length: 310
+
+No significant similarity found.
+
+
+
+Query #17: 83R1|gi|116696516|gb|CP000478.1|Complete_17 Query ID: lcl|Query_158197 Length: 130
+
+No significant similarity found.
+
+
+
+Query #18: 83R1|gi|116696516|gb|CP000478.1|Complete_18 Query ID: lcl|Query_158198 Length: 1006
+
+No significant similarity found.
+
+
+
+Query #19: 83R1|gi|116696516|gb|CP000478.1|Complete_19 Query ID: lcl|Query_158199 Length: 116
+
+No significant similarity found.
+
+
+
+Query #20: 83R1|gi|116696516|gb|CP000478.1|Complete_20 Query ID: lcl|Query_158200 Length: 203
+
+No significant similarity found.
+
+
+
+Query #21: 83R1|gi|116696516|gb|CP000478.1|Complete_21 Query ID: lcl|Query_158201 Length: 155
+
+No significant similarity found.
+
+
+
+Query #22: 83R1|gi|116696516|gb|CP000478.1|Complete_22 Query ID: lcl|Query_158202 Length: 1644
+
+No significant similarity found.
+
+
+
+Query #23: 83R1|gi|116696516|gb|CP000478.1|Complete_23 Query ID: lcl|Query_158203 Length: 92
+
+No significant similarity found.
+
+
+
+Query #24: 83R1|gi|116696516|gb|CP000478.1|Complete_24 Query ID: lcl|Query_158204 Length: 75
+
+No significant similarity found.
+
+
+
+Query #25: 83R1|gi|116696516|gb|CP000478.1|Complete_25 Query ID: lcl|Query_158205 Length: 194
+
+No significant similarity found.
+
+
+
+Query #26: 83R1|gi|116696516|gb|CP000478.1|Complete_26 Query ID: lcl|Query_158206 Length: 67
+
+No significant similarity found.
+
+
+
+Query #27: 83R1|gi|116696516|gb|CP000478.1|Complete_27 Query ID: lcl|Query_158207 Length: 214
+
+No significant similarity found.
+
+
+
+Query #28: 83R1|gi|116696516|gb|CP000478.1|Complete_28 Query ID: lcl|Query_158208 Length: 81
+
+No significant similarity found.
+
+
+
+Query #29: 83R1|gi|116696516|gb|CP000478.1|Complete_29 Query ID: lcl|Query_158209 Length: 354
+
+No significant similarity found.
+
+
+
+Query #30: 83R1|gi|116696516|gb|CP000478.1|Complete_30 Query ID: lcl|Query_158210 Length: 573
+
+No significant similarity found.
+
+
+
+Query #31: 83R1|gi|116696516|gb|CP000478.1|Complete_31 Query ID: lcl|Query_158211 Length: 58
+
+No significant similarity found.
+
+
+
+Query #32: 83R1|gi|116696516|gb|CP000478.1|Complete_32 Query ID: lcl|Query_158212 Length: 121
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     35.0   66.2  38%   0.001 41.46  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     35.0   66.2  38%   0.001 41.46  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 1614573 to 1614686
+
+Score:35.0 bits(79), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:17/41(41%), Positives:22/41(53%), Gaps:3/41(7%)
+
+Query  1        MPIYEFRCSRCGRKSEILTLRVSEAFSPVCKHCSSEEVARV  41
+                MPIYE+ C +C R  E L   V +  SP C HC S    ++
+Sbjct  1614686  MPIYEYSCEKCSRDFEEL---VFDDTSPACPHCGSHATHKL  1614573
+
+
+
+
+Range 2: 2058072 to 2058206
+
+Score:31.2 bits(69), Expect:0.027, 
+Method:Composition-based stats., 
+Identities:17/48(35%), Positives:26/48(54%), Gaps:5/48(10%)
+
+Query  1        MPIYEFRCSRCGRKSEILTLRVSEAFSPVCKHC--SSEEVARVPSRVR  46
+                MP+++F C+ CG K E L        SP C  C  ++E+   VPS ++
+Sbjct  2058072  MPMFDFVCTACGNKFEDLVFGDE---SPACPKCGAATEKQMCVPSPLK  2058206
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 3105417 to 3105530
+
+Score:35.0 bits(79), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:17/41(41%), Positives:22/41(53%), Gaps:3/41(7%)
+
+Query  1        MPIYEFRCSRCGRKSEILTLRVSEAFSPVCKHCSSEEVARV  41
+                MPIYE+ C +C R  E L   V +  SP C HC S    ++
+Sbjct  3105530  MPIYEYSCEKCSRDFEEL---VFDDTSPACPHCGSHATHKL  3105417
+
+
+
+
+Range 2: 132492 to 132626
+
+Score:31.2 bits(69), Expect:0.027, 
+Method:Composition-based stats., 
+Identities:17/48(35%), Positives:26/48(54%), Gaps:5/48(10%)
+
+Query  1       MPIYEFRCSRCGRKSEILTLRVSEAFSPVCKHC--SSEEVARVPSRVR  46
+               MP+++F C+ CG K E L        SP C  C  ++E+   VPS ++
+Sbjct  132492  MPMFDFVCTACGNKFEDLVFGDE---SPACPKCGAATEKQMCVPSPLK  132626
+
+
+
+
+
+Query #33: 83R1|gi|116696516|gb|CP000478.1|Complete_33 Query ID: lcl|Query_158213 Length: 193
+
+No significant similarity found.
+
+
+
+Query #34: 83R1|gi|116696516|gb|CP000478.1|Complete_34 Query ID: lcl|Query_158214 Length: 329
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     209    258   99%   2e-61 39.64  3416440    LT984798.1       
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     209    257   99%   3e-61 39.64  3414934    CP023415.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 3122652 to 3123644
+
+Score:209 bits(533), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:132/333(40%), Positives:181/333(54%), Gaps:8/333(2%)
+
+Query  3        SPPTDPYQRRIDYLRLSITDRCNLRCTYCMPEGGVPKLAHGDILRYEEILRLARIVTAMG  62
+                +P  D + R + YLRLS+TDRCNLRC YC        + H  +LRYEE+ R+  I+  +G
+Sbjct  3122652  APLVDGHGRVVRYLRLSVTDRCNLRCMYCCSNARQTCIPHTQVLRYEEMARMVGIMARLG  3122831
+
+Query  63       ISKIRITGGEPLVRRDV-LFLCGSIAGIPQLRSLSITTNGVLLGRLAGGLFQAGIKRINV  121
+                ++K+R+TGGEP  R+    FL    +  P +  L +TTNG LL      L Q G+K +N+
+Sbjct  3122832  VTKVRLTGGEPFARKGCDGFLYMLHSRFPDM-DLRLTTNGTLLEPHIPLLRQVGVKAVNL  3123008
+
+Query  122      SLDTLKPGRFASITRQDCFEEVWKGIMAAHEAGFAPIKLNAVVMRGVNDDEIADLARLTF  181
+                SLD+     FA +T +D    V   +     AG   +K+NAV MRGVND ++ D      
+Sbjct  3123009  SLDSFDRETFAKVTGRDMQPAVLSALDRLLSAGIR-VKVNAVAMRGVNDGQMDDFVHAVR  3123185
+
+Query  182      EYPFHMRFIEFMPFKEADYDD--RFLSSEDILDRLRSVGELVP-VESTDSNGPARHYRFA  238
+                  P  +RFIEFMP       +   F  + DI         LVP  E     GPAR +R  
+Sbjct  3123186  TMPIDLRFIEFMPMGSGTLWNAGTFWPAADIRAEAERRVRLVPEKEDRAEAGPARMFRVK  3123365
+
+Query  239      GAMGKIGIISPISNHFCPTCNRLRVTADGRLRTCLFAREETDLKRALRLGA-SDEEMMLL  297
+                G  G++G I+ +S HFC +CNRLR+T+DG LRTCLF   E  L+  LR  A +D ++   
+Sbjct  3123366  GGKGRLGFITAVSCHFCGSCNRLRLTSDGNLRTCLFDDREYALRHFLRDPAMTDADIERT  3123545
+
+Query  298      IRTAIADKPERHE-LDSRAFRKCISRPMFAIGG  329
+                IR A  +KP   E L +R+  +  +R M  IGG
+Sbjct  3123546  IRKACTEKPVGAELLANRSGDEVAARQMVGIGG  3123644
+
+
+
+
+Range 2: 1051408 to 1051725
+
+Score:48.1 bits(113), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:32/110(29%), Positives:60/110(54%), Gaps:5/110(4%)
+
+Query  19       SITDRCNLRCTYCMPEGGVPKLAHGDILRYEEILRLARIVTAMGISKIRITGGEPLVRRD  78
+                ++T RCNL+C +C       ++   D +  ++   +   + A G   +  +GGEPLVR+D
+Sbjct  1051408  NMTQRCNLKCVHCYAH--AIEVDGTDDINTQQAKAMIDDLAAYGAPVMLFSGGEPLVRKD  1051581
+
+Query  79       VLFLCGSIAGIPQLRSLSITTNGVLLGRLAGGLFQA-GIKRINVSLDTLK  127
+                ++ L  S A    +R++ I+TNG L+ +      +A G+  + +SLD ++
+Sbjct  1051582  LVELA-SHATSKGMRAV-ISTNGTLITKEKARELKAVGLSYVGISLDGME  1051725
+
+
+
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 1631807 to 1632799
+
+Score:209 bits(532), Expect:3e-61, 
+Method:Compositional matrix adjust., 
+Identities:132/333(40%), Positives:181/333(54%), Gaps:8/333(2%)
+
+Query  3        SPPTDPYQRRIDYLRLSITDRCNLRCTYCMPEGGVPKLAHGDILRYEEILRLARIVTAMG  62
+                +P  D + R + YLRLS+TDRCNLRC YC        + H  +LRYEE+ R+  I+  +G
+Sbjct  1631807  APLVDGHGRVVRYLRLSVTDRCNLRCMYCCSNARQTCIPHTQVLRYEEMARMVGIMARLG  1631986
+
+Query  63       ISKIRITGGEPLVRRDV-LFLCGSIAGIPQLRSLSITTNGVLLGRLAGGLFQAGIKRINV  121
+                ++K+R+TGGEP  R+    FL    +  P +  L +TTNG LL      L Q G+K +N+
+Sbjct  1631987  VTKVRLTGGEPFARKGCDGFLYMLHSRFPDM-DLRLTTNGTLLEPHIPLLRQVGVKAVNL  1632163
+
+Query  122      SLDTLKPGRFASITRQDCFEEVWKGIMAAHEAGFAPIKLNAVVMRGVNDDEIADLARLTF  181
+                SLD+     FA +T +D    V   +     AG   +K+NAV MRGVND ++ D      
+Sbjct  1632164  SLDSFDRETFAKVTGRDMQPAVLSALDRLLSAGIR-VKVNAVAMRGVNDGQMDDFVHAVR  1632340
+
+Query  182      EYPFHMRFIEFMPFKEADYDD--RFLSSEDILDRLRSVGELVP-VESTDSNGPARHYRFA  238
+                  P  +RFIEFMP       +   F  + DI         LVP  E     GPAR +R  
+Sbjct  1632341  TMPIDLRFIEFMPMGSGTLWNAGTFWPAADIRAEAERRVRLVPEKEDRAEAGPARMFRVK  1632520
+
+Query  239      GAMGKIGIISPISNHFCPTCNRLRVTADGRLRTCLFAREETDLKRALRLGA-SDEEMMLL  297
+                G  G++G I+ +S HFC +CNRLR+T+DG LRTCLF   E  L+  LR  A +D ++   
+Sbjct  1632521  GGKGRLGFITAVSCHFCGSCNRLRLTSDGNLRTCLFDDREYALRHFLRDPAMTDADIERT  1632700
+
+Query  298      IRTAIADKPERHE-LDSRAFRKCISRPMFAIGG  329
+                IR A  +KP   E L +R+  +  +R M  IGG
+Sbjct  1632701  IRKACTEKPVGAELLANRSGDEVAARQMVGIGG  1632799
+
+
+
+
+Range 2: 2976919 to 2977236
+
+Score:48.1 bits(113), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:32/110(29%), Positives:60/110(54%), Gaps:5/110(4%)
+
+Query  19       SITDRCNLRCTYCMPEGGVPKLAHGDILRYEEILRLARIVTAMGISKIRITGGEPLVRRD  78
+                ++T RCNL+C +C       ++   D +  ++   +   + A G   +  +GGEPLVR+D
+Sbjct  2976919  NMTQRCNLKCVHCYAH--AIEVDGTDDINTQQAKAMIDDLAAYGAPVMLFSGGEPLVRKD  2977092
+
+Query  79       VLFLCGSIAGIPQLRSLSITTNGVLLGRLAGGLFQA-GIKRINVSLDTLK  127
+                ++ L  S A    +R++ I+TNG L+ +      +A G+  + +SLD ++
+Sbjct  2977093  LVELA-SHATSKGMRAV-ISTNGTLITKEKARELKAVGLSYVGISLDGME  2977236
+
+
+
+
+
+Query #35: 83R1|gi|116696516|gb|CP000478.1|Complete_35 Query ID: lcl|Query_158215 Length: 619
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     120    950   65%   8e-29 26.62  3416440    LT984798.1       
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     120    950   65%   8e-29 26.62  3414934    CP023415.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 343461 to 344180
+
+Score:96.7 bits(239), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:77/248(31%), Positives:122/248(49%), Gaps:20/248(8%)
+
+Query  239     HAQKLESLGVMAGGIAHDFNNLLMAI-----MGNldltlldlPNDCRART----CVEQAY  289
+               H QKL S+G +A G+AH+ NN L  I     +    L++  +  + R R      +E   
+Sbjct  344180  HNQKLSSIGRLAAGVAHEVNNPLAVIYEKAGLARDLLSMGKVCGESRDRERLNGLLEGIE  344001
+
+Query  290     KASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQ-LFRAAIERTITLEVALSSRPA  348
+                   RA  +T ++L ++ +       + + + + +    L R A  R +TLE+ L+    
+Sbjct  344000  STVERARSITHRLLGFARRMEANRQSLHIEEVITETLSFLEREAKNRGVTLEMDLAEDLP  343821
+
+Query  349     TVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFA  408
+                + +D GQ+QQV +N++ NA +A+     G      + D     +   C+    P G+ A
+Sbjct  343820  EIVSDRGQLQQVFLNIVGNALDAVT----GSGQAGASADGQGRFVKIRCV----PSGQCA  343665
+
+Query  409     Y-IEVSDTGCGMDEKTRQRLFDPFFTTKF-TGRGLGMSAVMGIVRGHRGAILVESEVGWG  466
+                 + V D G GM  +  + +F+PF++TK   G GLGM    GIVR   G I V+SE G G
+Sbjct  343664  LEVTVRDNGKGMPREVLRHIFEPFYSTKKDKGTGLGMFITYGIVRRLGGDIRVDSEEGRG  343485
+
+Query  467     TTVRVLFP  474
+               +TVRV  P
+Sbjct  343484  STVRVTLP  343461
+
+
+
+
+Range 2: 343075 to 343413
+
+Score:49.3 bits(116), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:34/115(30%), Positives:52/115(45%), Gaps:2/115(1%)
+
+Query  500     VLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGL  559
+               +L+ DDE    E     +E  G       DG  ALR   ++  +   V+LDL MP + G 
+Sbjct  343413  ILLADDEKDFVETLAERLELRGHSVRVVYDGLAALRAAVEDMPD--VVVLDLLMPGLPGD  343240
+
+Query  560     AAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRA  614
+                    LK ++PD+PV+L +G+   D T      +    L KP +     ++L  A
+Sbjct  343239  EVLHRLKNVQPDLPVLLLTGHAAVDDTGLSPVSQAYACLTKPLSFNTFLETLESA  343075
+
+
+
+
+Range 3: 396383 to 397546
+
+Score:120 bits(302), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:111/417(27%), Positives:183/417(43%), Gaps:44/417(10%)
+
+Query  218     RDITDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNldltlldlPN  277
+               RDIT+ KR + +            +L +LG +A G+AH+  N L  I G        +  
+Sbjct  397546  RDITEVKRLQADAQ-------RNDRLSALGHLAAGVAHEVRNPLSTIKGVALYIAKRMLP  397388
+
+Query  278     DCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAIERTI  337
+                 R     ++      R   + S++L ++  G +  +  DL++ + +  +L  A + R+ 
+Sbjct  397387  GGREEEAAQRMIDEVDRLDRVVSELLEFARPGAINTAEADLAEVIGRALRLAEADM-RSR  397211
+
+Query  338     TLEVALSSRPA--TVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSR  395
+                + V L   P    V  +  ++ Q ++NL  NA++A+G+   G  +  G   C       
+Sbjct  397210  HIHVVLDVPPGLPPVRVNTERLTQALLNLFLNAAQAMGE---GGELRVGARLCSG-----  397055
+
+Query  396     SCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRGHRG  455
+                        G+   I V+D G G+    +  +F P+FTTK +G GLG++ V  IV GH G
+Sbjct  397054  ---------GQTFCITVADNGPGIARDIQAAIFTPYFTTKPSGTGLGLAIVHQIVEGHGG  396902
+
+Query  456     AILVESEVGWGTTVRVLFPA-----------CeppvsaapelpaaaaseppMMGSVLVVD  504
+                + V S  G GT   +  P                     +              +LVVD
+Sbjct  396901  NVSVTSAPGRGTEFTLELPVRGRDAAPAGG*MFRQKQRNTQAAEEDEMTAKTAVKLLVVD  396722
+
+Query  505     DEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQE  564
+               D+   RE   A +E  G+  V   +GEEA+ L +++   F  +L+D+ M  MSG+ A + 
+Sbjct  396721  DDRNHREMLRALLEEWGYAPVTVDNGEEAVALCQESP--FDLILMDVRMGGMSGIEATRA  396548
+
+Query  565     LKRIRPDVPVILCSGYGEEDATNRFAGQKLAG--FLHKPYTLEELKQSLTRALNAAA  619
+               +K   P +PV++ + Y   D  N     K     +L KP   + LK +L RAL+ A+
+Sbjct  396547  IKGYNPAIPVLIMTAY--SDVANAVEALKAGAYDYLTKPLAFDALKLALERALDHAS  396383
+
+
+
+
+Range 4: 2620274 to 2620999
+
+Score:94.4 bits(233), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:75/266(28%), Positives:127/266(47%), Gaps:35/266(13%)
+
+Query  221      TDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNl--------dltl  272
+                +D+K+A ++   +      + K+ +LG MA G+AH+ NN LM I  N         D   
+Sbjct  2620274  SDQKQAHIDARML-----QSSKMAALGKMAAGVAHEVNNPLMLIQENAGWIRDLLDDEKP  2620438
+
+Query  273      ldlPNDCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRA-  331
+                  + N        E+  +  +RA  +T +ML +  + +   + + ++    + A++ +  
+Sbjct  2620439  EAMKNYQEILESTEKIDQHVKRAKGITQRMLGFGRRMNPGRTEILINSLTDQAAEMLKTE  2620618
+
+Query  332      AIERTITLEVALSSRPATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEE  391
+                A  R I +      +   + +DP Q++Q+ +N+I NA +AIG+N G + I T        
+Sbjct  2620619  ATNRNIDIIREYDPQVPVILSDPAQLEQIFINIIDNAIDAIGKN-GSLTIRTLAWK----  2620783
+
+Query  392      CLSRSCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGR--GLGMSAVMGI  449
+                              +   I  +D+G GMD++T  R+FDPFFTTK  G   GLG++    I
+Sbjct  2620784  --------------KGVRILFTDSGPGMDQETVTRIFDPFFTTKKVGEGTGLGLAICYTI  2620921
+
+Query  450      VRGHRGAILVESEVGWGTTVRVLFPA  475
+                +    G I V+S +G GTT  +  PA
+Sbjct  2620922  LEKLGGRIEVQSRLGEGTTFSITLPA  2620999
+
+
+
+
+Range 5: 299396 to 300049
+
+Score:63.2 bits(152), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:59/237(25%), Positives:94/237(39%), Gaps:20/237(8%)
+
+Query  241     QKLESLGVMAGGIAHDFNNLLMAIMGNldltlldlPNDCRARTCVEQAYKASRRAGELTS  300
+               ++  S+G +   IAH+  N L  I  + +L       D   R  +   +  S R  +  +
+Sbjct  300049  ERFVSMGRVIASIAHEIRNPLGIIRSSAELLQRRSDADAGTRRILGAIFDESVRLSQTVN  299870
+
+Query  301     QMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAI-ERTITLEVALSSRPATVEADPGQIQQ  359
+                 L Y+     +   +D+S  + +        +  R + LE   +     V  D   + +
+Sbjct  299869  DFLDYARPRQPKQDLVDISLVLDQVLGFLEGDMGRRNVALERN-TEEGLFVHGDKDLLYR  299693
+
+Query  360     VVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFAYIEVSDTGCGM  419
+                  N++ N  +A+   PG + I+ G  D +                    +E  D+G G 
+Sbjct  299692  AFYNILVNGQQAM-DGPGVLHIS-GVHDGEGHV----------------RLEFLDSGPGF  299567
+
+Query  420     DEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRGHRGAILVESEVGWGTTVRVLFPAC  476
+               D      L DPFFTTK  G GLG+  V  I+  H G I +E+    G  VRVL P  
+Sbjct  299566  DASVLANLLDPFFTTKDGGTGLGLPIVQSIITSHGGVIQLENGPEGGALVRVLLPEA  299396
+
+
+
+
+Range 6: 299002 to 299352
+
+Score:47.8 bits(112), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:28/119(24%), Positives:57/119(47%), Gaps:2/119(1%)
+
+Query  500     VLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGL  559
+               +L++DDE          +E  G+     +D E AL     +  E   V+ D+ MP+++G 
+Sbjct  299352  ILIIDDEKNYLLVLQTLLEDEGYTVTAISDPETALAFL--DESEVDVVVTDMKMPKVTGR  299179
+
+Query  560     AAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRALNAA  618
+                  + +K+  P +PV++ + +G  ++           ++ KP++ +EL  S+  A+  A
+Sbjct  299178  QVLERVKKSWPYIPVLIMTAFGSIESAVELMKYGAFDYITKPFSNDELLLSIHNAVELA  299002
+
+
+
+
+Range 7: 2574433 to 2575230
+
+Score:79.7 bits(195), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:69/285(24%), Positives:124/285(43%), Gaps:35/285(12%)
+
+Query  347      PATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGR  406
+                P  +  D  +++QV++NL++NA +   +   G+ I     D                 G 
+Sbjct  2575230  PLKLWGDSLRLKQVLLNLMSNAVKFTARGKVGLRIHRQQDD----------------DGD  2575099
+
+Query  407      FAYIEVSDTGCGMDEKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVE  460
+                + + EVSDTG G+  + +Q LFDP+       + +F G GLG+S    I    +G++  E
+Sbjct  2575098  WLHFEVSDTGMGISHEYQQHLFDPYTQANSSISRRFGGTGLGLSICKRIAELMQGSLWCE  2574919
+
+Query  461      SEVGWGTTVRVLFPACeppvsaapelpaaaaseppMMGS----VLVVDDEHGIREPCMAH  516
+                S +G G+   +  P C    +   E    A    P+  +    +L+V+D    +E   A 
+Sbjct  2574918  SRLGEGSRFHLRIP-CTAARNIYCETSDEAHGVLPLQNAADLKILLVEDNEINQEIARAM  2574742
+
+Query  517      VERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQELKRIRPD-----  571
+                +  L      A +G EA+ +      +   + +D+ MP M GL A +E++R  P      
+Sbjct  2574741  LRHLDIECDLAHNGREAVHMALQTGYDM--IFMDVYMPVMDGLHATREIRRNLPKAPHGK  2574568
+
+Query  572      -VPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRAL  615
+                 +P+I  +     +  +      +  +L KP+ L  L+  + + L
+Sbjct  2574567  ALPIIAMTAVAMPETMDEIMDSGMDDYLAKPFNLVTLRNKIVQWL  2574433
+
+
+
+
+Range 8: 1170227 to 1171024
+
+Score:74.3 bits(181), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:72/281(26%), Positives:123/281(43%), Gaps:29/281(10%)
+
+Query  347      PATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGR  406
+                P T+  D  +++Q+++NL  NA +      G + +    +  +   ++ +CL        
+Sbjct  1171024  PQTLVGDALRLRQILLNLGGNAIKF--SERGLVRVDLQLLHREGNSVTLACL--------  1170875
+
+Query  407      FAYIEVSDTGCGMDEKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVE  460
+                     VSD G GM E+ ++R+F PF       T +F G GLG++    +V    G I V+
+Sbjct  1170874  -----VSDEGIGMSEEEQERIFTPFSQADTSITRRFGGTGLGLALCRRLVELMGGRIHVQ  1170710
+
+Query  461      SEVGWGTTVRVLFP---ACeppvsaapelpaaaaseppMMG-SVLVVDDEHGIREPCMAH  516
+                S  G G+  RV  P     +   +              + G  VL+ +D    RE     
+Sbjct  1170709  SAPGKGSVFRVELPFGVGRDDVFAPDMAGAGPEEQPGCLRGLRVLMAEDGDINREIMEVL  1170530
+
+Query  517      VERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQELK-RIRPD---V  572
+                +  +G      ++G+EAL  +R +A +   +L+D+ MP M G  A +E++   RP+   V
+Sbjct  1170529  LSGMGVQCTAVSNGQEALEAWRAHAGDIDLILMDVQMPVMDGYTATREIRADSRPEASTV  1170350
+
+Query  573      PVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTR  613
+                P++  + Y       R     +   L KP  + EL  +L R
+Sbjct  1170349  PIVAMTAYAMRGDAERSLQAGMNAHLTKPVDVRELTLTLKR  1170227
+
+
+
+
+Range 9: 1177482 to 1178171
+
+Score:71.2 bits(173), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:69/249(28%), Positives:105/249(42%), Gaps:20/249(8%)
+
+Query  214      EKLRRDITDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNldltll  273
+                E+ R     +++AEVE   +E  +   +KL ++G +A G+AH+  N L +I G       
+Sbjct  1178171  ERARESRQQQRKAEVEVRRLEAEVRRKEKLAAVGNLAAGVAHEIRNPLSSIKGYATYFGQ  1177992
+
+Query  274      dlPNDCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAI  333
+                  P     R           R   +   ++  S    + P P  L+D V    +L R   
+Sbjct  1177991  RFPEGSEDRAAANVMVSEVDRLNRVIMDLIGLSRPSDVCPRPGRLADVVEHVMRLIRQDA  1177812
+
+Query  334      E-RTITLEVALSSRPATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEEC  392
+                E R + +E  ++        DP ++ Q ++NL  NA +A+ +  GG      T      C
+Sbjct  1177811  EKRGVEVECRVAPGVPLAMVDPERMGQALLNLCLNALDAMPE--GGRLTFAVTWHKKGVC  1177638
+
+Query  393      LSRSCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRG  452
+                L                  V DTG G+  +    +FDP+FTTK  G GLG++ V  IV  
+Sbjct  1177637  LM-----------------VRDTGVGIVPRQLPHVFDPYFTTKGQGTGLGLAMVHKIVEA  1177509
+
+Query  453      HRGAILVES  461
+                H G I V S
+Sbjct  1177508  HNGEISVTS  1177482
+
+
+
+
+Range 10: 614499 to 614834
+
+Score:56.6 bits(135), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:44/120(37%), Positives:63/120(52%), Gaps:16/120(13%)
+
+Query  496     MMGSVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPR  555
+               M   +L+V+DE  IRE    ++ER GF  + AADG EALRL R +  +   +LLD+ MP 
+Sbjct  614834  MSQQILIVEDEADIRELLRFNLEREGFSVLEAADGNEALRLARQHLPDL--MLLDVMMPG  614661
+
+Query  556     MSG------LAAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAG--FLHKPYTLEEL  607
+                 G      L A  E   I    PV++ +  GEE   +R  G  L    ++ KP+++ EL
+Sbjct  614660  PDGFEVCRLLGAQAETAHI----PVLMLTARGEE--MDRVVGLSLGADDYVVKPFSVREL  614499
+
+
+
+
+Range 11: 341957 to 342295
+
+Score:54.3 bits(129), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:40/119(34%), Positives:57/119(47%), Gaps:9/119(7%)
+
+Query  499     SVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSG  558
+                +L+VDDE    +     +   GF A  A DG EAL+   D   +   ++LDL MP M G
+Sbjct  342295  KILLVDDERQFVDTLAERLAMRGFAARVAYDGPEALKAV-DQPTD--VIVLDLRMPGMDG  342125
+
+Query  559     LAAYQELKRIRPDVPVILCSGYG---EEDATNRFAGQKLAGFLHKPYTLEELKQSLTRA  614
+                   + +K+  P V VI+ +G+G   EE    R        FL KP  ++EL  S+  A
+Sbjct  342124  FEVLRNVKKSNPQVQVIILTGHGGDAEEQTAYRMGAYN---FLRKPMDIDELLGSIRMA  341957
+
+
+
+
+Range 12: 2621209 to 2621574
+
+Score:51.2 bits(121), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:35/122(29%), Positives:56/122(45%), Gaps:4/122(3%)
+
+Query  501      LVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDN----AKEFVCVLLDLTMPRM  556
+                L VDDE    E     + R G   V A DG+ AL +  ++     + F  V++D+ MP M
+Sbjct  2621209  LFVDDELEFLELMQKRLARRGMEVVTAPDGQTALNMVEESLASGGEPFNIVVMDVRMPGM  2621388
+
+Query  557      SGLAAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRALN  616
+                 GL   + +K+  P +PVIL +G+                ++ KP  + EL   +  A+ 
+Sbjct  2621389  DGLETLRHMKQKSPGLPVILLTGHACMGVAVEGLDLGAYDYMLKPVAISELIIKMEEAVR  2621568
+
+Query  617      AA  618
+                +A
+Sbjct  2621569  SA  2621574
+
+
+
+
+Range 13: 1754246 to 1754887
+
+Score:47.0 bits(110), Expect:8e-06, 
+Method:Compositional matrix adjust., 
+Identities:63/233(27%), Positives:105/233(45%), Gaps:37/233(15%)
+
+Query  253      IAHDFNNLLMAIMGNldltlldlPNDCRARTCVEQAYKASRRAGELTSQMLAYSG--KGH  310
+                I+H+    L AI+G   L+L    N  + R  + Q  K+     ++ +++L +S   +G 
+Sbjct  1754246  ISHEIRTPLNAIIGMSYLSLQTDLNGVQ-RDYLAQINKSGSVLLDMVNRILDFSSASEGS  1754422
+
+Query  311      LRP-----SPMDLSDEVRKNAQLFRAAIERTITLEVALS-SRPATVEADPGQIQQVVMNL  364
+                +R      +  DL D +R++      A+E+ + L   L  S PA V  D   +++V+  L
+Sbjct  1754423  IRTERKVFAVADLMDLLRQSVAGL--ALEKRLRLNFVLDPSIPAVVAGDERHLEEVLRIL  1754596
+
+Query  365      ITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFAYIE----VSDTGCGMD  420
+                + NA +            +G++D          L    PP R   I     VSDTG G+ 
+Sbjct  1754597  LDNAVKYT---------ASGSVDF-------RILPSGEPPMRKGAIRLLFVVSDTGPGLG  1754728
+
+Query  421      EKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVESEVGWGT  467
+                E+  ++LF+PF       T  F+G GLG++    +V    G + V S  G G+
+Sbjct  1754729  EEQWKKLFEPFTLGDESMTRSFSGLGLGLALARQLVSLMGGELKVGSVPGQGS  1754887
+
+
+
+
+Range 14: 1755170 to 1755532
+
+Score:44.3 bits(103), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:40/124(32%), Positives:63/124(50%), Gaps:10/124(8%)
+
+Query  499      SVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNA--KEFVCVLLDLTMPRM  556
+                +VLVV+D     +     +E+ G   + AA+G+EAL L  DN        VL+D+ MP M
+Sbjct  1755170  AVLVVEDNEINAQIARELLEQAGLEVLLAANGQEALDLL-DNPVHPPLGLVLMDVQMPVM  1755346
+
+Query  557      SGLAAYQELKR--IRP-DVPVILCSGYGEEDATNRFAGQKLA--GFLHKPYTLEELKQSL  611
+                 GL A + ++   I P D+PV+  + +   D  +R  G+ +    +L KP   E L  +L
+Sbjct  1755347  DGLEATRRIRAMGISPVDLPVVAMTAH--TDMASRMDGKDVGMNDYLTKPVNPETLYATL  1755520
+
+Query  612      TRAL  615
+                 + L
+Sbjct  1755521  EKWL  1755532
+
+
+
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2269035 to 2269754
+
+Score:96.7 bits(239), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:77/248(31%), Positives:122/248(49%), Gaps:20/248(8%)
+
+Query  239      HAQKLESLGVMAGGIAHDFNNLLMAI-----MGNldltlldlPNDCRART----CVEQAY  289
+                H QKL S+G +A G+AH+ NN L  I     +    L++  +  + R R      +E   
+Sbjct  2269754  HNQKLSSIGRLAAGVAHEVNNPLAVIYEKAGLARDLLSMGKVCGESRDRERLNGLLEGIE  2269575
+
+Query  290      KASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQ-LFRAAIERTITLEVALSSRPA  348
+                    RA  +T ++L ++ +       + + + + +    L R A  R +TLE+ L+    
+Sbjct  2269574  STVERARSITHRLLGFARRMEANRQSLHIEEVITETLSFLEREAKNRGVTLEMDLAEDLP  2269395
+
+Query  349      TVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFA  408
+                 + +D GQ+QQV +N++ NA +A+     G      + D     +   C+    P G+ A
+Sbjct  2269394  EIVSDRGQLQQVFLNIVGNALDAVT----GSGQAGASADGQGRFVKIRCV----PSGQCA  2269239
+
+Query  409      Y-IEVSDTGCGMDEKTRQRLFDPFFTTKF-TGRGLGMSAVMGIVRGHRGAILVESEVGWG  466
+                  + V D G GM  +  + +F+PF++TK   G GLGM    GIVR   G I V+SE G G
+Sbjct  2269238  LEVTVRDNGKGMPREVLRHIFEPFYSTKKDKGTGLGMFITYGIVRRLGGDIRVDSEEGRG  2269059
+
+Query  467      TTVRVLFP  474
+                +TVRV  P
+Sbjct  2269058  STVRVTLP  2269035
+
+
+
+
+Range 2: 2268649 to 2268987
+
+Score:49.3 bits(116), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:34/115(30%), Positives:52/115(45%), Gaps:2/115(1%)
+
+Query  500      VLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGL  559
+                +L+ DDE    E     +E  G       DG  ALR   ++  +   V+LDL MP + G 
+Sbjct  2268987  ILLADDEKDFVETLAERLELRGHSVRVVYDGLAALRAAVEDMPD--VVVLDLLMPGLPGD  2268814
+
+Query  560      AAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRA  614
+                     LK ++PD+PV+L +G+   D T      +    L KP +     ++L  A
+Sbjct  2268813  EVLHRLKNVQPDLPVLLLTGHAAVDDTGLSPVSQAYACLTKPLSFNTFLETLESA  2268649
+
+
+
+
+Range 3: 2321955 to 2323118
+
+Score:120 bits(302), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:111/417(27%), Positives:183/417(43%), Gaps:44/417(10%)
+
+Query  218      RDITDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNldltlldlPN  277
+                RDIT+ KR + +            +L +LG +A G+AH+  N L  I G        +  
+Sbjct  2323118  RDITEVKRLQADAQ-------RNDRLSALGHLAAGVAHEVRNPLSTIKGVALYIAKRMLP  2322960
+
+Query  278      DCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAIERTI  337
+                  R     ++      R   + S++L ++  G +  +  DL++ + +  +L  A + R+ 
+Sbjct  2322959  GGREEEAAQRMIDEVDRLDRVVSELLEFARPGAINTAEADLAEVIGRALRLAEADM-RSR  2322783
+
+Query  338      TLEVALSSRPA--TVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSR  395
+                 + V L   P    V  +  ++ Q ++NL  NA++A+G+   G  +  G   C       
+Sbjct  2322782  HIHVVLDVPPGLPPVRVNTERLTQALLNLFLNAAQAMGE---GGELRVGARLCSG-----  2322627
+
+Query  396      SCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRGHRG  455
+                         G+   I V+D G G+    +  +F P+FTTK +G GLG++ V  IV GH G
+Sbjct  2322626  ---------GQTFCITVADNGPGIARDIQAAIFTPYFTTKPSGTGLGLAIVHQIVEGHGG  2322474
+
+Query  456      AILVESEVGWGTTVRVLFPA-----------CeppvsaapelpaaaaseppMMGSVLVVD  504
+                 + V S  G GT   +  P                     +              +LVVD
+Sbjct  2322473  NVSVTSAPGRGTEFTLELPVRGRDAAPAGG*MFRQKQRNTQAAEEDEMTAKTAVKLLVVD  2322294
+
+Query  505      DEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQE  564
+                D+   RE   A +E  G+  V   +GEEA+ L +++   F  +L+D+ M  MSG+ A + 
+Sbjct  2322293  DDRNHREMLRALLEEWGYAPVTVDNGEEAVALCQESP--FDLILMDVRMGGMSGIEATRA  2322120
+
+Query  565      LKRIRPDVPVILCSGYGEEDATNRFAGQKLAG--FLHKPYTLEELKQSLTRALNAAA  619
+                +K   P +PV++ + Y   D  N     K     +L KP   + LK +L RAL+ A+
+Sbjct  2322119  IKGYNPAIPVLIMTAY--SDVANAVEALKAGAYDYLTKPLAFDALKLALERALDHAS  2321955
+
+
+
+
+Range 4: 1129462 to 1130187
+
+Score:94.4 bits(233), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:75/266(28%), Positives:127/266(47%), Gaps:35/266(13%)
+
+Query  221      TDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNl--------dltl  272
+                +D+K+A ++   +      + K+ +LG MA G+AH+ NN LM I  N         D   
+Sbjct  1129462  SDQKQAHIDARML-----QSSKMAALGKMAAGVAHEVNNPLMLIQENAGWIRDLLDDEKP  1129626
+
+Query  273      ldlPNDCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRA-  331
+                  + N        E+  +  +RA  +T +ML +  + +   + + ++    + A++ +  
+Sbjct  1129627  EAMKNYQEILESTEKIDQHVKRAKGITQRMLGFGRRMNPGRTEILINSLTDQAAEMLKTE  1129806
+
+Query  332      AIERTITLEVALSSRPATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEE  391
+                A  R I +      +   + +DP Q++Q+ +N+I NA +AIG+N G + I T        
+Sbjct  1129807  ATNRNIDIIREYDPQVPVILSDPAQLEQIFINIIDNAIDAIGKN-GSLTIRTLAWK----  1129971
+
+Query  392      CLSRSCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGR--GLGMSAVMGI  449
+                              +   I  +D+G GMD++T  R+FDPFFTTK  G   GLG++    I
+Sbjct  1129972  --------------KGVRILFTDSGPGMDQETVTRIFDPFFTTKKVGEGTGLGLAICYTI  1130109
+
+Query  450      VRGHRGAILVESEVGWGTTVRVLFPA  475
+                +    G I V+S +G GTT  +  PA
+Sbjct  1130110  LEKLGGRIEVQSRLGEGTTFSITLPA  1130187
+
+
+
+
+Range 5: 2224972 to 2225625
+
+Score:63.2 bits(152), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:59/237(25%), Positives:94/237(39%), Gaps:20/237(8%)
+
+Query  241      QKLESLGVMAGGIAHDFNNLLMAIMGNldltlldlPNDCRARTCVEQAYKASRRAGELTS  300
+                ++  S+G +   IAH+  N L  I  + +L       D   R  +   +  S R  +  +
+Sbjct  2225625  ERFVSMGRVIASIAHEIRNPLGIIRSSAELLQRRSDADAGTRRILGAIFDESVRLSQTVN  2225446
+
+Query  301      QMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAI-ERTITLEVALSSRPATVEADPGQIQQ  359
+                  L Y+     +   +D+S  + +        +  R + LE   +     V  D   + +
+Sbjct  2225445  DFLDYARPRQPKQDLVDISLVLDQVLGFLEGDMGRRNVALERN-TEEGLFVHGDKDLLYR  2225269
+
+Query  360      VVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFAYIEVSDTGCGM  419
+                   N++ N  +A+   PG + I+ G  D +                    +E  D+G G 
+Sbjct  2225268  AFYNILVNGQQAM-DGPGVLHIS-GVHDGEGHV----------------RLEFLDSGPGF  2225143
+
+Query  420      DEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRGHRGAILVESEVGWGTTVRVLFPAC  476
+                D      L DPFFTTK  G GLG+  V  I+  H G I +E+    G  VRVL P  
+Sbjct  2225142  DASVLANLLDPFFTTKDGGTGLGLPIVQSIITSHGGVIQLENGPEGGALVRVLLPEA  2224972
+
+
+
+
+Range 6: 2224578 to 2224928
+
+Score:47.8 bits(112), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:28/119(24%), Positives:57/119(47%), Gaps:2/119(1%)
+
+Query  500      VLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGL  559
+                +L++DDE          +E  G+     +D E AL     +  E   V+ D+ MP+++G 
+Sbjct  2224928  ILIIDDEKNYLLVLQTLLEDEGYTVTAISDPETALAFL--DESEVDVVVTDMKMPKVTGR  2224755
+
+Query  560      AAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRALNAA  618
+                   + +K+  P +PV++ + +G  ++           ++ KP++ +EL  S+  A+  A
+Sbjct  2224754  QVLERVKKSWPYIPVLIMTAFGSIESAVELMKYGAFDYITKPFSNDELLLSIHNAVELA  2224578
+
+
+
+
+Range 7: 1083620 to 1084417
+
+Score:79.7 bits(195), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:69/285(24%), Positives:124/285(43%), Gaps:35/285(12%)
+
+Query  347      PATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGR  406
+                P  +  D  +++QV++NL++NA +   +   G+ I     D                 G 
+Sbjct  1084417  PLKLWGDSLRLKQVLLNLMSNAVKFTARGKVGLRIHRQQDD----------------DGD  1084286
+
+Query  407      FAYIEVSDTGCGMDEKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVE  460
+                + + EVSDTG G+  + +Q LFDP+       + +F G GLG+S    I    +G++  E
+Sbjct  1084285  WLHFEVSDTGMGISHEYQQHLFDPYTQANSSISRRFGGTGLGLSICKRIAELMQGSLWCE  1084106
+
+Query  461      SEVGWGTTVRVLFPACeppvsaapelpaaaaseppMMGS----VLVVDDEHGIREPCMAH  516
+                S +G G+   +  P C    +   E    A    P+  +    +L+V+D    +E   A 
+Sbjct  1084105  SRLGEGSRFHLRIP-CTAARNIYCETSDEAHGVLPLQNAADLKILLVEDNEINQEIARAM  1083929
+
+Query  517      VERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQELKRIRPD-----  571
+                +  L      A +G EA+ +      +   + +D+ MP M GL A +E++R  P      
+Sbjct  1083928  LRHLDIECDLAHNGREAVHMALQTGYDM--IFMDVYMPVMDGLHATREIRRNLPKAPHGK  1083755
+
+Query  572      -VPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRAL  615
+                 +P+I  +     +  +      +  +L KP+ L  L+  + + L
+Sbjct  1083754  ALPIIAMTAVAMPETMDEIMDSGMDDYLAKPFNLVTLRNKIVQWL  1083620
+
+
+
+
+Range 8: 3095739 to 3096536
+
+Score:74.3 bits(181), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:72/281(26%), Positives:123/281(43%), Gaps:29/281(10%)
+
+Query  347      PATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGR  406
+                P T+  D  +++Q+++NL  NA +      G + +    +  +   ++ +CL        
+Sbjct  3096536  PQTLVGDALRLRQILLNLGGNAIKF--SERGLVRVDLQLLHREGNSVTLACL--------  3096387
+
+Query  407      FAYIEVSDTGCGMDEKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVE  460
+                     VSD G GM E+ ++R+F PF       T +F G GLG++    +V    G I V+
+Sbjct  3096386  -----VSDEGIGMSEEEQERIFTPFSQADTSITRRFGGTGLGLALCRRLVELMGGRIHVQ  3096222
+
+Query  461      SEVGWGTTVRVLFP---ACeppvsaapelpaaaaseppMMG-SVLVVDDEHGIREPCMAH  516
+                S  G G+  RV  P     +   +              + G  VL+ +D    RE     
+Sbjct  3096221  SAPGKGSVFRVELPFGVGRDDVFAPDMAGAGPEEQPGCLRGLRVLMAEDGDINREIMEVL  3096042
+
+Query  517      VERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSGLAAYQELK-RIRPD---V  572
+                +  +G      ++G+EAL  +R +A +   +L+D+ MP M G  A +E++   RP+   V
+Sbjct  3096041  LSGMGVQCTAVSNGQEALEAWRAHAGDIDLILMDVQMPVMDGYTATREIRADSRPEASTV  3095862
+
+Query  573      PVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTR  613
+                P++  + Y       R     +   L KP  + EL  +L R
+Sbjct  3095861  PIVAMTAYAMRGDAERSLQAGMNAHLTKPVDVRELTLTLKR  3095739
+
+
+
+
+Range 9: 3102994 to 3103683
+
+Score:71.2 bits(173), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:69/249(28%), Positives:105/249(42%), Gaps:20/249(8%)
+
+Query  214      EKLRRDITDRKRAEVerlemerrllHAQKLESLGVMAGGIAHDFNNLLMAIMGNldltll  273
+                E+ R     +++AEVE   +E  +   +KL ++G +A G+AH+  N L +I G       
+Sbjct  3103683  ERARESRQQQRKAEVEVRRLEAEVRRKEKLAAVGNLAAGVAHEIRNPLSSIKGYATYFGQ  3103504
+
+Query  274      dlPNDCRARTCVEQAYKASRRAGELTSQMLAYSGKGHLRPSPMDLSDEVRKNAQLFRAAI  333
+                  P     R           R   +   ++  S    + P P  L+D V    +L R   
+Sbjct  3103503  RFPEGSEDRAAANVMVSEVDRLNRVIMDLIGLSRPSDVCPRPGRLADVVEHVMRLIRQDA  3103324
+
+Query  334      E-RTITLEVALSSRPATVEADPGQIQQVVMNLITNASEAIGQNPGGIAITTGTMDCDEEC  392
+                E R + +E  ++        DP ++ Q ++NL  NA +A+ +  GG      T      C
+Sbjct  3103323  EKRGVEVECRVAPGVPLAMVDPERMGQALLNLCLNALDAMPE--GGRLTFAVTWHKKGVC  3103150
+
+Query  393      LSRSCLDEKPPPGRFAYIEVSDTGCGMDEKTRQRLFDPFFTTKFTGRGLGMSAVMGIVRG  452
+                L                  V DTG G+  +    +FDP+FTTK  G GLG++ V  IV  
+Sbjct  3103149  LM-----------------VRDTGVGIVPRQLPHVFDPYFTTKGQGTGLGLAMVHKIVEA  3103021
+
+Query  453      HRGAILVES  461
+                H G I V S
+Sbjct  3103020  HNGEISVTS  3102994
+
+
+
+
+Range 10: 2540067 to 2540402
+
+Score:56.6 bits(135), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:44/120(37%), Positives:63/120(52%), Gaps:16/120(13%)
+
+Query  496      MMGSVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPR  555
+                M   +L+V+DE  IRE    ++ER GF  + AADG EALRL R +  +   +LLD+ MP 
+Sbjct  2540402  MSQQILIVEDEADIRELLRFNLEREGFSVLEAADGNEALRLARQHLPDL--MLLDVMMPG  2540229
+
+Query  556      MSG------LAAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAG--FLHKPYTLEEL  607
+                  G      L A  E   I    PV++ +  GEE   +R  G  L    ++ KP+++ EL
+Sbjct  2540228  PDGFEVCRLLGAQAETAHI----PVLMLTARGEE--MDRVVGLSLGADDYVVKPFSVREL  2540067
+
+
+
+
+Range 11: 2267531 to 2267869
+
+Score:54.3 bits(129), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:40/119(34%), Positives:57/119(47%), Gaps:9/119(7%)
+
+Query  499      SVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNAKEFVCVLLDLTMPRMSG  558
+                 +L+VDDE    +     +   GF A  A DG EAL+   D   +   ++LDL MP M G
+Sbjct  2267869  KILLVDDERQFVDTLAERLAMRGFAARVAYDGPEALKAV-DQPTD--VIVLDLRMPGMDG  2267699
+
+Query  559      LAAYQELKRIRPDVPVILCSGYG---EEDATNRFAGQKLAGFLHKPYTLEELKQSLTRA  614
+                    + +K+  P V VI+ +G+G   EE    R        FL KP  ++EL  S+  A
+Sbjct  2267698  FEVLRNVKKSNPQVQVIILTGHGGDAEEQTAYRMGAYN---FLRKPMDIDELLGSIRMA  2267531
+
+
+
+
+Range 12: 1130397 to 1130762
+
+Score:51.2 bits(121), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:35/122(29%), Positives:56/122(45%), Gaps:4/122(3%)
+
+Query  501      LVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDN----AKEFVCVLLDLTMPRM  556
+                L VDDE    E     + R G   V A DG+ AL +  ++     + F  V++D+ MP M
+Sbjct  1130397  LFVDDELEFLELMQKRLARRGMEVVTAPDGQTALNMVEESLASGGEPFNIVVMDVRMPGM  1130576
+
+Query  557      SGLAAYQELKRIRPDVPVILCSGYGEEDATNRFAGQKLAGFLHKPYTLEELKQSLTRALN  616
+                 GL   + +K+  P +PVIL +G+                ++ KP  + EL   +  A+ 
+Sbjct  1130577  DGLETLRHMKQKSPGLPVILLTGHACMGVAVEGLDLGAYDYMLKPVAISELIIKMEEAVR  1130756
+
+Query  617      AA  618
+                +A
+Sbjct  1130757  SA  1130762
+
+
+
+
+Range 13: 264800 to 265441
+
+Score:47.0 bits(110), Expect:8e-06, 
+Method:Compositional matrix adjust., 
+Identities:63/233(27%), Positives:105/233(45%), Gaps:37/233(15%)
+
+Query  253     IAHDFNNLLMAIMGNldltlldlPNDCRARTCVEQAYKASRRAGELTSQMLAYSG--KGH  310
+               I+H+    L AI+G   L+L    N  + R  + Q  K+     ++ +++L +S   +G 
+Sbjct  264800  ISHEIRTPLNAIIGMSYLSLQTDLNGVQ-RDYLAQINKSGSVLLDMVNRILDFSSASEGS  264976
+
+Query  311     LRP-----SPMDLSDEVRKNAQLFRAAIERTITLEVALS-SRPATVEADPGQIQQVVMNL  364
+               +R      +  DL D +R++      A+E+ + L   L  S PA V  D   +++V+  L
+Sbjct  264977  IRTERKVFAVADLMDLLRQSVAGL--ALEKRLRLNFVLDPSIPAVVAGDERHLEEVLRIL  265150
+
+Query  365     ITNASEAIGQNPGGIAITTGTMDCDEECLSRSCLDEKPPPGRFAYIE----VSDTGCGMD  420
+               + NA +            +G++D          L    PP R   I     VSDTG G+ 
+Sbjct  265151  LDNAVKYT---------ASGSVDF-------RILPSGEPPMRKGAIRLLFVVSDTGPGLG  265282
+
+Query  421     EKTRQRLFDPF------FTTKFTGRGLGMSAVMGIVRGHRGAILVESEVGWGT  467
+               E+  ++LF+PF       T  F+G GLG++    +V    G + V S  G G+
+Sbjct  265283  EEQWKKLFEPFTLGDESMTRSFSGLGLGLALARQLVSLMGGELKVGSVPGQGS  265441
+
+
+
+
+Range 14: 265724 to 266086
+
+Score:44.3 bits(103), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:40/124(32%), Positives:63/124(50%), Gaps:10/124(8%)
+
+Query  499     SVLVVDDEHGIREPCMAHVERLGFHAVGAADGEEALRLFRDNA--KEFVCVLLDLTMPRM  556
+               +VLVV+D     +     +E+ G   + AA+G+EAL L  DN        VL+D+ MP M
+Sbjct  265724  AVLVVEDNEINAQIARELLEQAGLEVLLAANGQEALDLL-DNPVHPPLGLVLMDVQMPVM  265900
+
+Query  557     SGLAAYQELKR--IRP-DVPVILCSGYGEEDATNRFAGQKLA--GFLHKPYTLEELKQSL  611
+                GL A + ++   I P D+PV+  + +   D  +R  G+ +    +L KP   E L  +L
+Sbjct  265901  DGLEATRRIRAMGISPVDLPVVAMTAH--TDMASRMDGKDVGMNDYLTKPVNPETLYATL  266074
+
+Query  612     TRAL  615
+                + L
+Sbjct  266075  EKWL  266086
+
+
+
+
+
+Query #36: 83R1|gi|116696516|gb|CP000478.1|Complete_36 Query ID: lcl|Query_158216 Length: 308
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     94.4   94.4  79%   6e-22 29.15  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     94.4   94.4  79%   6e-22 29.15  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 3277621 to 3278355
+
+Score:94.4 bits(233), Expect:6e-22, 
+Method:Compositional matrix adjust., 
+Identities:72/247(29%), Positives:115/247(46%), Gaps:4/247(1%)
+
+Query  1        MELRQLKTFRVVANLLSFNKAAGQLHYAQSSISAQIQILEEELGVQLFDRLGKRVQLTEA  60
+                M++  L+TF  VA+  SF +AA +L   Q +++  IQ+LE+ELG QLF R  K+V LTE 
+Sbjct  3278355  MKVAHLETFAKVASTGSFTRAAHELFSTQPTVTTHIQMLEQELGCQLFRRSKKQVCLTEN  3278176
+
+Query  61       GVRLLQYANKILDLVDETNSMVNRVNEPTGSLTIRIPETLGVRRLPAVLREFHSRFPRVR  120
+                G  + Q   +I  L+D   S +N  NE TG L I     +G   LP VL++  S  P+V 
+Sbjct  3278175  GKNIYQKVEEIFQLIDTIKS-INVNNELTGVLNIAASSVMGSNFLPHVLQKIFSEHPKVN  3277999
+
+Query  121      LNFITCALEGLDKDLRKGITDLAFLLAESINAADLDMATLGFEPVVLVAAPDHPLAAKRK  180
+                +         +   + +G  D+ F    S     L    L  EP +L+A        K  
+Sbjct  3277998  IQLRFGNSHSIASWVDEGFVDIGFAPVSS-GFPRLVFTPLLVEPCILLAGCKKYEYYKEL  3277822
+
+Query  181      VHTRDLTGSTILLSRVDCSYRKVLEQILEQEEVTRFNR--FEFSSVEVIKHCVMAGVGIS  238
+                  +     +  ++        +V    L+++      +      ++E IK+ V+ G GI+
+Sbjct  3277821  FESGRCASTDFIIREKGTKLYEVSMHWLKKQPFYTETKPPHILWNIESIKNLVIEGSGIA  3277642
+
+Query  239      VLPSIAV  245
+                +LP  +V
+Sbjct  3277641  ILPKCSV  3277621
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1352120 to 1352854
+
+Score:94.4 bits(233), Expect:6e-22, 
+Method:Compositional matrix adjust., 
+Identities:72/247(29%), Positives:115/247(46%), Gaps:4/247(1%)
+
+Query  1        MELRQLKTFRVVANLLSFNKAAGQLHYAQSSISAQIQILEEELGVQLFDRLGKRVQLTEA  60
+                M++  L+TF  VA+  SF +AA +L   Q +++  IQ+LE+ELG QLF R  K+V LTE 
+Sbjct  1352854  MKVAHLETFAKVASTGSFTRAAHELFSTQPTVTTHIQMLEQELGCQLFRRSKKQVCLTEN  1352675
+
+Query  61       GVRLLQYANKILDLVDETNSMVNRVNEPTGSLTIRIPETLGVRRLPAVLREFHSRFPRVR  120
+                G  + Q   +I  L+D   S +N  NE TG L I     +G   LP VL++  S  P+V 
+Sbjct  1352674  GKNIYQKVEEIFQLIDTIKS-INVNNELTGVLNIAASSVMGSNFLPHVLQKIFSEHPKVN  1352498
+
+Query  121      LNFITCALEGLDKDLRKGITDLAFLLAESINAADLDMATLGFEPVVLVAAPDHPLAAKRK  180
+                +         +   + +G  D+ F    S     L    L  EP +L+A        K  
+Sbjct  1352497  IQLRFGNSHSIASWVDEGFVDIGFAPVSS-GFPRLVFTPLLVEPCILLAGCKKYEYYKEL  1352321
+
+Query  181      VHTRDLTGSTILLSRVDCSYRKVLEQILEQEEVTRFNR--FEFSSVEVIKHCVMAGVGIS  238
+                  +     +  ++        +V    L+++      +      ++E IK+ V+ G GI+
+Sbjct  1352320  FESGRCASTDFIIREKGTKLYEVSMHWLKKQPFYTETKPPHILWNIESIKNLVIEGSGIA  1352141
+
+Query  239      VLPSIAV  245
+                +LP  +V
+Sbjct  1352140  ILPKCSV  1352120
+
+
+
+
+
+Query #37: 83R1|gi|116696516|gb|CP000478.1|Complete_37 Query ID: lcl|Query_158217 Length: 131
+
+No significant similarity found.
+
+
+
+Query #38: 83R1|gi|116696516|gb|CP000478.1|Complete_38 Query ID: lcl|Query_158218 Length: 732
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     708    708   98%   0.0   50.48  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     708    708   98%   0.0   50.48  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 3301126 to 3303327
+
+Score:708 bits(1827), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:376/735(51%), Positives:510/735(69%), Gaps:14/735(1%)
+
+Query  2        AEQIRGLVERLTYSAEENGYSVLKVKIPGR-------------RELVTVVGNFVSVTPGE  48
+                A +I G VER+ +  EENGY+VL++ +P               R+ V+ VG+ V+   G 
+Sbjct  3301126  AVEISGTVERVIFHNEENGYTVLRL-MPASVNSGGGDGGLTRPRDSVSCVGHMVNPQAGV  3301302
+
+Query  49       VLLMEGSWTVHSRFGEQFQVERYETTMPSTEVGIRKYLGSGLIRGIGAKMADRIVDRFGV  108
+                 + + G W  ++RFG Q +    E  +P+T  GIR YL SGLI+G+G +MA RIV  FG 
+Sbjct  3301303  QMKLGGRWVNNTRFGRQIEFSHAEEMLPATSEGIRLYLSSGLIKGVGEEMASRIVKAFGT  3301482
+
+Query  109      DTLEVIENEPERLREVEGIGAYRLDRIRKAWEEQRDIRDVMVFLRTHGVNAAYAARIFKH  168
+                DT+ V++ EPERL +V G+G   L+RIR +W E R IRD+++FL+ HG+  AYA RI++ 
+Sbjct  3301483  DTIRVLDEEPERLLKVRGVGQKSLERIRASWSEHRGIRDLLLFLQPHGITPAYAVRIYRA  3301662
+
+Query  169      YGKSSLEAVKENPYRLAMDVSGIGFLTADRIAQSLGFTADSPLRAEAGVLFVLHRSSEEG  228
+                YG  +L  V+ENPYRLAMD+ GIGF+TAD  A+ LGF  D PLR +AG L+VL +++++G
+Sbjct  3301663  YGADALGIVRENPYRLAMDIHGIGFVTADAAARKLGFEHDHPLRVQAGTLYVLQKATDDG  3301842
+
+Query  229      HVCVPHEWLVEQCRELLQIPSEVLRDAVSRLTADRRLVQESLPPQAATRFGEDRAVTLRG  288
+                +V +P   L+E     L +  +++ DA++ L AD R+V+E +          +  V LR 
+Sbjct  3301843  NVYLPQTALMEAVCAQLGVDEDLVSDALAALEADERIVREDMDMPGPDGTQPETGVYLRR  3302022
+
+Query  289      YHVAETEVARRLTQLQTYRPFRRGVDPEAAVKWLKNKLPFKPAPLQEEAVKRALTDKVVV  348
+                Y   E++ A  L +L       R  +P+A V  +  +L    AP Q EAV+ +   KV+V
+Sbjct  3302023  YFHCESKTAFYLQRLMRSPKSIRFENPDALVDKVVGELNISLAPEQLEAVRTSARSKVMV  3302202
+
+Query  349      ITGGPGTGKTTLVRAILAVFREMHARICLAAPTGRAAKRLSETTRYSAGTIHRLLEYSPQ  408
+                +TGGPGTGKTT++ AI+ +F E+ ARI LAAPTGRAAKR++ET+   + TIHRLLEYSP+
+Sbjct  3302203  LTGGPGTGKTTIINAIIRLFAEVRARILLAAPTGRAAKRMAETSGRESRTIHRLLEYSPK  3302382
+
+Query  409      AGGFVRNELKPLPADLVIVDETSMldlllmhyllKAVPPQATLVLVGDADQLPSVGPGNV  468
+                  GF RNE  PL   L++VDE SM+D LL ++LLKAVP  ATLVLVGD  QLPSVGPGNV
+Sbjct  3302383  EDGFARNEDSPLACGLLVVDEASMMDTLLFYHLLKAVPLGATLVLVGDVHQLPSVGPGNV  3302562
+
+Query  469      LKDIIDSGRFPVVRLDEVFRQARQSRIVVNAHLVRQGKFPQMENEREGLQDFYFIAKEDP  528
+                L DII SG  PVV L E+FRQ+ +S I+ NAHL+ +G+ P +E+ ++ L DFYFI + DP
+Sbjct  3302563  LADIIASGVVPVVELTEIFRQSAESEIICNAHLINRGEVPSLESSKDRLSDFYFIHQNDP  3302742
+
+Query  529      EEVCRVILKLCTERIPQRFGLDPVEDIQVLSPMHRGAVGAQRLNTALQEALNPETRFVQR  588
+                E+   +++ L    IP+RFGLDPV+DIQVL+PMH+GAVGA  +NT LQEALNP    V+R
+Sbjct  3302743  EKAADLMVDLVRNHIPRRFGLDPVDDIQVLTPMHKGAVGAGHMNTRLQEALNPNGLEVRR  3302922
+
+Query  589      GDRTFRLHDKVMQVRNNYDKDVFNGDLGRIAKIDFEEQLVEVDIDGRRVPYDFSELDELV  648
+                G+R FRLHDKVMQ+RNNYDKDVFNGD+GRI+ +D  ++ + V  D R VPY+F ELDEL 
+Sbjct  3302923  GERAFRLHDKVMQIRNNYDKDVFNGDMGRISFLDLADRTLSVTFDERVVPYEFDELDELA  3303102
+
+Query  649      LAYAVSIHKAQGSEYPAVVFPLLTQHFMMLRRNLLYTAITRARKLVVVVGSRKALAIAVR  708
+                 AYA+SIHK+QGSEYPAVV P++ QH+++L+RNL+YT  TR +KLV++VG  +AL +AV+
+Sbjct  3303103  PAYAISIHKSQGSEYPAVVIPIMMQHYVLLQRNLIYTGATRGKKLVILVGESRALHMAVK  3303282
+
+Query  709      NNDTDRRFTLLRERL  723
+                NN T +R+T L ERL
+Sbjct  3303283  NNKTRKRYTRLAERL  3303327
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1375626 to 1377827
+
+Score:708 bits(1827), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:376/735(51%), Positives:510/735(69%), Gaps:14/735(1%)
+
+Query  2        AEQIRGLVERLTYSAEENGYSVLKVKIPGR-------------RELVTVVGNFVSVTPGE  48
+                A +I G VER+ +  EENGY+VL++ +P               R+ V+ VG+ V+   G 
+Sbjct  1375626  AVEISGTVERVIFHNEENGYTVLRL-MPASVNSGGGDGGLTRPRDSVSCVGHMVNPQAGV  1375802
+
+Query  49       VLLMEGSWTVHSRFGEQFQVERYETTMPSTEVGIRKYLGSGLIRGIGAKMADRIVDRFGV  108
+                 + + G W  ++RFG Q +    E  +P+T  GIR YL SGLI+G+G +MA RIV  FG 
+Sbjct  1375803  QMKLGGRWVNNTRFGRQIEFSHAEEMLPATSEGIRLYLSSGLIKGVGEEMASRIVKAFGT  1375982
+
+Query  109      DTLEVIENEPERLREVEGIGAYRLDRIRKAWEEQRDIRDVMVFLRTHGVNAAYAARIFKH  168
+                DT+ V++ EPERL +V G+G   L+RIR +W E R IRD+++FL+ HG+  AYA RI++ 
+Sbjct  1375983  DTIRVLDEEPERLLKVRGVGQKSLERIRASWSEHRGIRDLLLFLQPHGITPAYAVRIYRA  1376162
+
+Query  169      YGKSSLEAVKENPYRLAMDVSGIGFLTADRIAQSLGFTADSPLRAEAGVLFVLHRSSEEG  228
+                YG  +L  V+ENPYRLAMD+ GIGF+TAD  A+ LGF  D PLR +AG L+VL +++++G
+Sbjct  1376163  YGADALGIVRENPYRLAMDIHGIGFVTADAAARKLGFEHDHPLRVQAGTLYVLQKATDDG  1376342
+
+Query  229      HVCVPHEWLVEQCRELLQIPSEVLRDAVSRLTADRRLVQESLPPQAATRFGEDRAVTLRG  288
+                +V +P   L+E     L +  +++ DA++ L AD R+V+E +          +  V LR 
+Sbjct  1376343  NVYLPQTALMEAVCAQLGVDEDLVSDALAALEADERIVREDMDMPGPDGTQPETGVYLRR  1376522
+
+Query  289      YHVAETEVARRLTQLQTYRPFRRGVDPEAAVKWLKNKLPFKPAPLQEEAVKRALTDKVVV  348
+                Y   E++ A  L +L       R  +P+A V  +  +L    AP Q EAV+ +   KV+V
+Sbjct  1376523  YFHCESKTAFYLQRLMRSPKSIRFENPDALVDKVVGELNISLAPEQLEAVRTSARSKVMV  1376702
+
+Query  349      ITGGPGTGKTTLVRAILAVFREMHARICLAAPTGRAAKRLSETTRYSAGTIHRLLEYSPQ  408
+                +TGGPGTGKTT++ AI+ +F E+ ARI LAAPTGRAAKR++ET+   + TIHRLLEYSP+
+Sbjct  1376703  LTGGPGTGKTTIINAIIRLFAEVRARILLAAPTGRAAKRMAETSGRESRTIHRLLEYSPK  1376882
+
+Query  409      AGGFVRNELKPLPADLVIVDETSMldlllmhyllKAVPPQATLVLVGDADQLPSVGPGNV  468
+                  GF RNE  PL   L++VDE SM+D LL ++LLKAVP  ATLVLVGD  QLPSVGPGNV
+Sbjct  1376883  EDGFARNEDSPLACGLLVVDEASMMDTLLFYHLLKAVPLGATLVLVGDVHQLPSVGPGNV  1377062
+
+Query  469      LKDIIDSGRFPVVRLDEVFRQARQSRIVVNAHLVRQGKFPQMENEREGLQDFYFIAKEDP  528
+                L DII SG  PVV L E+FRQ+ +S I+ NAHL+ +G+ P +E+ ++ L DFYFI + DP
+Sbjct  1377063  LADIIASGVVPVVELTEIFRQSAESEIICNAHLINRGEVPSLESSKDRLSDFYFIHQNDP  1377242
+
+Query  529      EEVCRVILKLCTERIPQRFGLDPVEDIQVLSPMHRGAVGAQRLNTALQEALNPETRFVQR  588
+                E+   +++ L    IP+RFGLDPV+DIQVL+PMH+GAVGA  +NT LQEALNP    V+R
+Sbjct  1377243  EKAADLMVDLVRNHIPRRFGLDPVDDIQVLTPMHKGAVGAGHMNTRLQEALNPNGLEVRR  1377422
+
+Query  589      GDRTFRLHDKVMQVRNNYDKDVFNGDLGRIAKIDFEEQLVEVDIDGRRVPYDFSELDELV  648
+                G+R FRLHDKVMQ+RNNYDKDVFNGD+GRI+ +D  ++ + V  D R VPY+F ELDEL 
+Sbjct  1377423  GERAFRLHDKVMQIRNNYDKDVFNGDMGRISFLDLADRTLSVTFDERVVPYEFDELDELA  1377602
+
+Query  649      LAYAVSIHKAQGSEYPAVVFPLLTQHFMMLRRNLLYTAITRARKLVVVVGSRKALAIAVR  708
+                 AYA+SIHK+QGSEYPAVV P++ QH+++L+RNL+YT  TR +KLV++VG  +AL +AV+
+Sbjct  1377603  PAYAISIHKSQGSEYPAVVIPIMMQHYVLLQRNLIYTGATRGKKLVILVGESRALHMAVK  1377782
+
+Query  709      NNDTDRRFTLLRERL  723
+                NN T +R+T L ERL
+Sbjct  1377783  NNKTRKRYTRLAERL  1377827
+
+
+
+
+
+Query #39: 83R1|gi|116696516|gb|CP000478.1|Complete_39 Query ID: lcl|Query_158219 Length: 77
+
+No significant similarity found.
+
+
+
+Query #40: 83R1|gi|116696516|gb|CP000478.1|Complete_40 Query ID: lcl|Query_158220 Length: 161
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     79.0   79.0  98%   2e-18 33.33  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     79.0   79.0  98%   2e-18 33.33  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2431987 to 2432544
+
+Score:79.0 bits(193), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:62/186(33%), Positives:89/186(47%), Gaps:27/186(14%)
+
+Query  1        MEPKSKSQIKREMLALQSLGEQLVKLGQDRLNRMDLDPDLREAVLHAGTLGKGEALRRQM  60
+                 E  S+S  KRE  ALQ+LGE+L +LG   +  ++  P+L EA+     +   E  RRQM
+Sbjct  2431987  FEQPSRSAKKRESHALQALGEELARLGPQEVQALNPPPELAEALALYARIRNHEGRRRQM  2432166
+
+Query  61       QYIGVLMRDI-DPEPIREALEAIAHGRGHDARLFQKLERWREELIEGNEETLAQILAEHP  119
+                Q+IG L+R++ D EP+R ALE    G         + E+WR+ L+    + L Q+L   P
+Sbjct  2432167  QFIGRLIREMDDAEPLRAALERRKAGTMAATAALHRAEQWRDRLLSAPADELDQLLDALP  2432346
+
+Query  120      R--------------------------ADGKMLRRFALNARREREAKAPPKSSRALFRTL  153
+                R                          A G+ LR   L AR+E    + P + RA+FR L
+Sbjct  2432347  RPQAENPAESDGPQTAAAGQNPRKGRAAAGEELRSLVLKARKEMADGSAPHARRAVFRAL  2432526
+
+Query  154      RALSLE  159
+                  L +E
+Sbjct  2432527  HKLLVE  2432544
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 506419 to 506976
+
+Score:79.0 bits(193), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:62/186(33%), Positives:89/186(47%), Gaps:27/186(14%)
+
+Query  1       MEPKSKSQIKREMLALQSLGEQLVKLGQDRLNRMDLDPDLREAVLHAGTLGKGEALRRQM  60
+                E  S+S  KRE  ALQ+LGE+L +LG   +  ++  P+L EA+     +   E  RRQM
+Sbjct  506419  FEQPSRSAKKRESHALQALGEELARLGPQEVQALNPPPELAEALALYARIRNHEGRRRQM  506598
+
+Query  61      QYIGVLMRDI-DPEPIREALEAIAHGRGHDARLFQKLERWREELIEGNEETLAQILAEHP  119
+               Q+IG L+R++ D EP+R ALE    G         + E+WR+ L+    + L Q+L   P
+Sbjct  506599  QFIGRLIREMDDAEPLRAALERRKAGTMAATAALHRAEQWRDRLLSAPADELDQLLDALP  506778
+
+Query  120     R--------------------------ADGKMLRRFALNARREREAKAPPKSSRALFRTL  153
+               R                          A G+ LR   L AR+E    + P + RA+FR L
+Sbjct  506779  RPQAENPAESDGPQTAAAGQNPRKGRAAAGEELRSLVLKARKEMADGSAPHARRAVFRAL  506958
+
+Query  154     RALSLE  159
+                 L +E
+Sbjct  506959  HKLLVE  506976
+
+
+
+
+
+Query #41: 83R1|gi|116696516|gb|CP000478.1|Complete_41 Query ID: lcl|Query_158221 Length: 201
+
+No significant similarity found.
+
+
+
+Query #42: 83R1|gi|116696516|gb|CP000478.1|Complete_42 Query ID: lcl|Query_158222 Length: 326
+
+No significant similarity found.
+
+
+
+Query #43: 83R1|gi|116696516|gb|CP000478.1|Complete_43 Query ID: lcl|Query_158223 Length: 209
+
+No significant similarity found.
+
+
+
+Query #44: 83R1|gi|116696516|gb|CP000478.1|Complete_44 Query ID: lcl|Query_158224 Length: 223
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     112    149   60%   3e-29 42.34  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     112    149   60%   3e-29 42.34  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 581817 to 582227
+
+Score:112 bits(281), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:58/137(42%), Positives:90/137(65%), Gaps:1/137(0%)
+
+Query  1       MYVGWYMKTKLLTITPETSVFKAREMMDNHRISHLPVTDGKAHLVGLVTDRDLRQVWASP  60
+               M V  +M T ++++TPETS+ K  ++M +H +  LPV D K  +VG+++DRD+R    S 
+Sbjct  582227  MPVQNWMTTDVVSVTPETSLLKVGKLMKDHHVRRLPVLDDKGRVVGIISDRDVRDASPSK  582048
+
+Query  61      ATTLSVHELTYVLQKLTVANVMTRNVVTATPDMHIERAALIIHDKKFGALPVVKDD-RLV  119
+               ATTL ++E+ Y+L +L   N+MT N +T  P   +E+AALI+ D K G LPVV+D  +LV
+Sbjct  582047  ATTLDMYEMHYLLAELKAKNIMTANPMTVKPSDTVEQAALIMLDNKIGGLPVVEDSGKLV  581868
+
+Query  120     GIITVTDLMQVVLTALG  136
+               GII+  D+ + ++   G
+Sbjct  581867  GIISDHDVFKALVDITG  581817
+
+
+
+
+Range 2: 759142 to 759321
+
+Score:37.0 bits(84), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:23/60(38%), Positives:34/60(56%), Gaps:6/60(10%)
+
+Query  74      QKLTVANV------MTRNVVTATPDMHIERAALIIHDKKFGALPVVKDDRLVGIITVTDL  127
+               Q+L V  V      M  + VT +P+  ++ A  ++ D +   LPVV DDRLVGI+T  D+
+Sbjct  759321  QRLEVERVKKSESGMILDPVTISPNNTVQEALDLMSDFRVSGLPVVADDRLVGILTNRDV  759142
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 2071278 to 2071688
+
+Score:112 bits(281), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:58/137(42%), Positives:90/137(65%), Gaps:1/137(0%)
+
+Query  1        MYVGWYMKTKLLTITPETSVFKAREMMDNHRISHLPVTDGKAHLVGLVTDRDLRQVWASP  60
+                M V  +M T ++++TPETS+ K  ++M +H +  LPV D K  +VG+++DRD+R    S 
+Sbjct  2071688  MPVQNWMTTDVVSVTPETSLLKVGKLMKDHHVRRLPVLDDKGRVVGIISDRDVRDASPSK  2071509
+
+Query  61       ATTLSVHELTYVLQKLTVANVMTRNVVTATPDMHIERAALIIHDKKFGALPVVKDD-RLV  119
+                ATTL ++E+ Y+L +L   N+MT N +T  P   +E+AALI+ D K G LPVV+D  +LV
+Sbjct  2071508  ATTLDMYEMHYLLAELKAKNIMTANPMTVKPSDTVEQAALIMLDNKIGGLPVVEDSGKLV  2071329
+
+Query  120      GIITVTDLMQVVLTALG  136
+                GII+  D+ + ++   G
+Sbjct  2071328  GIISDHDVFKALVDITG  2071278
+
+
+
+
+Range 2: 2248608 to 2248787
+
+Score:37.0 bits(84), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:23/60(38%), Positives:34/60(56%), Gaps:6/60(10%)
+
+Query  74       QKLTVANV------MTRNVVTATPDMHIERAALIIHDKKFGALPVVKDDRLVGIITVTDL  127
+                Q+L V  V      M  + VT +P+  ++ A  ++ D +   LPVV DDRLVGI+T  D+
+Sbjct  2248787  QRLEVERVKKSESGMILDPVTISPNNTVQEALDLMSDFRVSGLPVVADDRLVGILTNRDV  2248608
+
+
+
+
+
+Query #45: 83R1|gi|116696516|gb|CP000478.1|Complete_45 Query ID: lcl|Query_158225 Length: 136
+
+No significant similarity found.
+
+
+
+Query #46: 83R1|gi|116696516|gb|CP000478.1|Complete_46 Query ID: lcl|Query_158226 Length: 340
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     348    738   99%   1e-109 50.59  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     348    738   99%   1e-109 50.59  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 202744 to 203757
+
+Score:348 bits(894), Expect:1e-109, 
+Method:Compositional matrix adjust., 
+Identities:183/338(54%), Positives:256/338(75%), Gaps:3/338(0%)
+
+Query  6       LSYFSKDLAMDLGTANTLIYLRGRGVVLNEPSVVAINQD---THQVIAVGQEARNIIGRH  62
+               L  FS DLA+DLGTANT +Y++G G+VL EPSVVA+ +D    + V+AVGQ+A+ ++GR 
+Sbjct  203757  LGMFSNDLAIDLGTANTCVYVKGHGIVLREPSVVAVKKDPRGNNVVLAVGQDAKRMLGRT  203578
+
+Query  63      SQRVVTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAVI  122
+                  +  IRP+KDGVIADFEVT  M+++F++KV   R+ VRPR+++ VPTGIT VEKRAV 
+Sbjct  203577  PGNIWAIRPMKDGVIADFEVTEAMLRHFIAKVHNSRRLVRPRIMICVPTGITQVEKRAVK  203398
+
+Query  123     EAAEQAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAYSESV  182
+               E+A+ AGAR ++L+EEPMAAAIG  LP+ +P  NM+VDIGGGTTEVAVIS+  + YS SV
+Sbjct  203397  ESAQSAGAREVYLIEEPMAAAIGADLPIQEPTSNMVVDIGGGTTEVAVISLSGIVYSRSV  203218
+
+Query  183     RVAGDEANEAILRYMQRERQMIISEVLAENIKMKIGTAAPLDQPETLEVTGKEILTGIPR  242
+               RV GD+ +EAI+ +++R+  M+I E  AE IK+KI +A PLD  + +EV G++++TGIP+
+Sbjct  203217  RVGGDKMDEAIMTHVKRKYNMLIGESSAEEIKIKIASAYPLDPEQQIEVKGRDLVTGIPQ  203038
+
+Query  243     TFTVTDEEIREAIKEPVYAIVEAVKRALEKTPPDLAADIHDKGFWlagggallrgldrll  302
+                  +T EE+R+AI E V +IV+AV+ ALE+TPP+LAADI D+G  L GGGALL+GLD+LL
+Sbjct  203037  NIIITSEEVRKAISEQVDSIVQAVRIALEQTPPELAADIVDRGIVLTGGGALLKGLDQLL  202858
+
+Query  303     SQYTTLKVNIAEDPLTAVARGAGTVIEHLDFHRSVFIN  340
+                + T+L + + +DPL+ V  G G  +++L   + V I+
+Sbjct  202857  REETSLPITVVDDPLSTVVVGTGKAMDNLHILKEVCID  202744
+
+
+
+
+Range 2: 1772627 to 1773643
+
+Score:343 bits(879), Expect:1e-107, 
+Method:Compositional matrix adjust., 
+Identities:181/339(53%), Positives:246/339(72%), Gaps:0/339(0%)
+
+Query  2        FERLLSYFSKDLAMDLGTANTLIYLRGRGVVLNEPSVVAINQDTHQVIAVGQEARNIIGR  61
+                  RL  + SKD+AMDLGTANTL+Y R  G+V+NEPSVVA++ +T +++AVG  A+  IGR
+Sbjct  1773643  LRRLFRFLSKDIAMDLGTANTLLYTRAHGIVVNEPSVVALDANTGKILAVGAAAKEYIGR  1773464
+
+Query  62       HSQRVVTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAV  121
+                  + +  +RP+KDGVIADF+VT  MI YF+ K +   + VRP + + +PTGIT VEKRAV
+Sbjct  1773463  TPRSIRAVRPMKDGVIADFDVTRAMISYFVQKAISGLRLVRPSMAICIPTGITQVEKRAV  1773284
+
+Query  122      IEAAEQAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAYSES  181
+                I++A  AGA  I ++EEPMAAAIG  LP+ +P GN+++DIGGGT+EVAVI++  VA S+S
+Sbjct  1773283  IDSAMLAGAVDISMIEEPMAAAIGADLPIHEPLGNLVLDIGGGTSEVAVITLSGVANSQS  1773104
+
+Query  182      VRVAGDEANEAILRYMQRERQMIISEVLAENIKMKIGTAAPLDQPETLEVTGKEILTGIP  241
+                VRVAGD  N A+ R+M+   +M + +  AEN+K  IG A P+     LEV+GK+++ G P
+Sbjct  1773103  VRVAGDTMNLAVQRFMRDAFRMEVGDNTAENVKKIIGAAVPMPNAPILEVSGKDMVRGCP  1772924
+
+Query  242      RTFTVTDEEIREAIKEPVYAIVEAVKRALEKTPPDLAADIHDKGFWlagggallrgldrl  301
+                R   VT+  IREA++EPV AI+E V RALEKTPP+LAADI+  G  +AGGG+LL+GLD+ 
+Sbjct  1772923  RVVKVTEAHIREALREPVQAILEVVLRALEKTPPELAADIYRNGMLMAGGGSLLKGLDQY  1772744
+
+Query  302      lSQYTTLKVNIAEDPLTAVARGAGTVIEHLDFHRSVFIN  340
+                +S+ T LKV + +DPLT V RG    +   + +RSVFIN
+Sbjct  1772743  ISRETRLKVFVDKDPLTTVLRGTARAMLDRETYRSVFIN  1772627
+
+
+
+
+Range 3: 2010648 to 2011142
+
+Score:46.2 bits(108), Expect:5e-06, 
+Method:Compositional matrix adjust., 
+Identities:46/172(27%), Positives:77/172(44%), Gaps:13/172(7%)
+
+Query  13       LAMDLGTANTLI------YLRGRGVVLNEPSVVAINQDTHQVIAVGQEARNIIGRHSQRV  66
+                LAMD   A+ L+        + R V   EP  V ++  T  ++ V   A+      + R 
+Sbjct  2010648  LAMDFTAADKLMDTLEKCRKKPRKVTATEPLYVGVDLGTAYIVVVAVNAKKQPVACAMRF  2010827
+
+Query  67       VTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAVIEAAE  126
+                  +  +KDG+I D+     +++    ++ ++      +  +AVP G +  +       AE
+Sbjct  2010828  AQV--VKDGLIVDYTGGLRIVRDLTQELEEKLGRKLEKAAIAVPPGTSERDCATHRHVAE  2011001
+
+Query  127      QAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAY  178
+                 AG +   +++EP AA    G+         IVDIGGGTT +AV+    V Y
+Sbjct  2011002  GAGYQVTSVLDEPTAANSVLGV-----RDGAIVDIGGGTTGIAVLEDGKVVY  2011142
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1692189 to 1693202
+
+Score:348 bits(894), Expect:1e-109, 
+Method:Compositional matrix adjust., 
+Identities:183/338(54%), Positives:256/338(75%), Gaps:3/338(0%)
+
+Query  6        LSYFSKDLAMDLGTANTLIYLRGRGVVLNEPSVVAINQD---THQVIAVGQEARNIIGRH  62
+                L  FS DLA+DLGTANT +Y++G G+VL EPSVVA+ +D    + V+AVGQ+A+ ++GR 
+Sbjct  1693202  LGMFSNDLAIDLGTANTCVYVKGHGIVLREPSVVAVKKDPRGNNVVLAVGQDAKRMLGRT  1693023
+
+Query  63       SQRVVTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAVI  122
+                   +  IRP+KDGVIADFEVT  M+++F++KV   R+ VRPR+++ VPTGIT VEKRAV 
+Sbjct  1693022  PGNIWAIRPMKDGVIADFEVTEAMLRHFIAKVHNSRRLVRPRIMICVPTGITQVEKRAVK  1692843
+
+Query  123      EAAEQAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAYSESV  182
+                E+A+ AGAR ++L+EEPMAAAIG  LP+ +P  NM+VDIGGGTTEVAVIS+  + YS SV
+Sbjct  1692842  ESAQSAGAREVYLIEEPMAAAIGADLPIQEPTSNMVVDIGGGTTEVAVISLSGIVYSRSV  1692663
+
+Query  183      RVAGDEANEAILRYMQRERQMIISEVLAENIKMKIGTAAPLDQPETLEVTGKEILTGIPR  242
+                RV GD+ +EAI+ +++R+  M+I E  AE IK+KI +A PLD  + +EV G++++TGIP+
+Sbjct  1692662  RVGGDKMDEAIMTHVKRKYNMLIGESSAEEIKIKIASAYPLDPEQQIEVKGRDLVTGIPQ  1692483
+
+Query  243      TFTVTDEEIREAIKEPVYAIVEAVKRALEKTPPDLAADIHDKGFWlagggallrgldrll  302
+                   +T EE+R+AI E V +IV+AV+ ALE+TPP+LAADI D+G  L GGGALL+GLD+LL
+Sbjct  1692482  NIIITSEEVRKAISEQVDSIVQAVRIALEQTPPELAADIVDRGIVLTGGGALLKGLDQLL  1692303
+
+Query  303      SQYTTLKVNIAEDPLTAVARGAGTVIEHLDFHRSVFIN  340
+                 + T+L + + +DPL+ V  G G  +++L   + V I+
+Sbjct  1692302  REETSLPITVVDDPLSTVVVGTGKAMDNLHILKEVCID  1692189
+
+
+
+
+Range 2: 3263473 to 3264489
+
+Score:343 bits(879), Expect:1e-107, 
+Method:Compositional matrix adjust., 
+Identities:181/339(53%), Positives:246/339(72%), Gaps:0/339(0%)
+
+Query  2        FERLLSYFSKDLAMDLGTANTLIYLRGRGVVLNEPSVVAINQDTHQVIAVGQEARNIIGR  61
+                  RL  + SKD+AMDLGTANTL+Y R  G+V+NEPSVVA++ +T +++AVG  A+  IGR
+Sbjct  3264489  LRRLFRFLSKDIAMDLGTANTLLYTRAHGIVVNEPSVVALDANTGKILAVGAAAKEYIGR  3264310
+
+Query  62       HSQRVVTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAV  121
+                  + +  +RP+KDGVIADF+VT  MI YF+ K +   + VRP + + +PTGIT VEKRAV
+Sbjct  3264309  TPRSIRAVRPMKDGVIADFDVTRAMISYFVQKAISGLRLVRPSMAICIPTGITQVEKRAV  3264130
+
+Query  122      IEAAEQAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAYSES  181
+                I++A  AGA  I ++EEPMAAAIG  LP+ +P GN+++DIGGGT+EVAVI++  VA S+S
+Sbjct  3264129  IDSAMLAGAVDISMIEEPMAAAIGADLPIHEPLGNLVLDIGGGTSEVAVITLSGVANSQS  3263950
+
+Query  182      VRVAGDEANEAILRYMQRERQMIISEVLAENIKMKIGTAAPLDQPETLEVTGKEILTGIP  241
+                VRVAGD  N A+ R+M+   +M + +  AEN+K  IG A P+     LEV+GK+++ G P
+Sbjct  3263949  VRVAGDTMNLAVQRFMRDAFRMEVGDNTAENVKKIIGAAVPMPNAPILEVSGKDMVRGCP  3263770
+
+Query  242      RTFTVTDEEIREAIKEPVYAIVEAVKRALEKTPPDLAADIHDKGFWlagggallrgldrl  301
+                R   VT+  IREA++EPV AI+E V RALEKTPP+LAADI+  G  +AGGG+LL+GLD+ 
+Sbjct  3263769  RVVKVTEAHIREALREPVQAILEVVLRALEKTPPELAADIYRNGMLMAGGGSLLKGLDQY  3263590
+
+Query  302      lSQYTTLKVNIAEDPLTAVARGAGTVIEHLDFHRSVFIN  340
+                +S+ T LKV + +DPLT V RG    +   + +RSVFIN
+Sbjct  3263589  ISRETRLKVFVDKDPLTTVLRGTARAMLDRETYRSVFIN  3263473
+
+
+
+
+Range 3: 85067 to 85561
+
+Score:46.2 bits(108), Expect:5e-06, 
+Method:Compositional matrix adjust., 
+Identities:46/172(27%), Positives:77/172(44%), Gaps:13/172(7%)
+
+Query  13     LAMDLGTANTLI------YLRGRGVVLNEPSVVAINQDTHQVIAVGQEARNIIGRHSQRV  66
+              LAMD   A+ L+        + R V   EP  V ++  T  ++ V   A+      + R 
+Sbjct  85067  LAMDFTAADKLMDTLEKCRKKPRKVTATEPLYVGVDLGTAYIVVVAVNAKKQPVACAMRF  85246
+
+Query  67     VTIRPLKDGVIADFEVTAVMIKYFLSKVLKRRQFVRPRLVVAVPTGITSVEKRAVIEAAE  126
+                +  +KDG+I D+     +++    ++ ++      +  +AVP G +  +       AE
+Sbjct  85247  AQV--VKDGLIVDYTGGLRIVRDLTQELEEKLGRKLEKAAIAVPPGTSERDCATHRHVAE  85420
+
+Query  127    QAGARHIHLVEEPMAAAIGTGLPVDQPFGNMIVDIGGGTTEVAVISMFAVAY  178
+               AG +   +++EP AA    G+         IVDIGGGTT +AV+    V Y
+Sbjct  85421  GAGYQVTSVLDEPTAANSVLGV-----RDGAIVDIGGGTTGIAVLEDGKVVY  85561
+
+
+
+
+
+Query #47: 83R1|gi|116696516|gb|CP000478.1|Complete_47 Query ID: lcl|Query_158227 Length: 482
+
+No significant similarity found.
+
+
+
+Query #48: 83R1|gi|116696516|gb|CP000478.1|Complete_48 Query ID: lcl|Query_158228 Length: 670
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     223    287   76%   4e-62 43.20  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     223    287   76%   4e-62 43.20  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 3333920 to 3334903
+
+Score:223 bits(568), Expect:4e-62, 
+Method:Compositional matrix adjust., 
+Identities:144/331(44%), Positives:192/331(58%), Gaps:9/331(2%)
+
+Query  2        ARITILPDILCNQIAAGEVVERPAAVAKELLENSIDAGARRISLSIADGGRKEIRVVDNG  61
+                + I +LP  L NQIAAGEVVERPA+V KEL+ENS+DA A +I + + +GG+  I V D+G
+Sbjct  3334903  SHIRLLPPELRNQIAAGEVVERPASVLKELVENSLDAQAGQIDVCLENGGQSRISVQDDG  3334724
+
+Query  62       SGMHPDDALLALERHATSKIRSIEDLQAIGSLGFRGEALPSIAAVSRFELVTREPDAVAG  121
+                 G+  +D  LA+ RHATSKIR +EDL+ I S GFRGEALPSIA+VSRF + +   DA AG
+Sbjct  3334723  RGIPAEDLELAVTRHATSKIRCLEDLERILSYGFRGEALPSIASVSRFTITSASQDA-AG  3334547
+
+Query  122      TFIrveggvvrevretgSPA----GTRITVRDLFYNVPARRKFLRAADTETAYICDQFQR  177
+                        V   + ++ SPA    GT + VRDLF N+PAR KFL+A  TE     D   R
+Sbjct  3334546  QAAAHRVEVEHGLLKSSSPAALHKGTLVEVRDLFSNIPARLKFLKAPSTEFRRAQDWLAR  3334367
+
+Query  178      LAMAHHAVHFQLINRERTQYDF-PGAASPEERAGQVLGAETLKRAI-PFCVENASARLRG  235
+                LA+    V F L + ER    F PG    E  A  VL    +  A+ PF       R  G
+Sbjct  3334366  LALTRPQVGFCLYSGEREALRFLPGQTLAERLA--VLWPRLIVDALRPFDGRRHGIRAHG  3334193
+
+Query  236      MVGTPDLQRANSHSLFVFVNGRPVWDRAVNRAILAAFESLIPRGKFPVAVLFLELDPLHV  295
+                +   P++ +     + ++VNGR V D+ +  A+  A++  +    +P   LF+E+DP  V
+Sbjct  3334192  LAALPNVSQPRGDRILLYVNGRSVTDKRLLAAVRQAYKGRMTSRDYPQIALFVEMDPAEV  3334013
+
+Query  296      DVNVHPTKREVRFKHPGGVIDTVRGAIRDAL  326
+                DVNVHP K EVRF+    V   V  A++ AL
+Sbjct  3334012  DVNVHPAKSEVRFRDESAVFSAVLHAVQGAL  3333920
+
+
+
+
+Range 2: 3332750 to 3333283
+
+Score:63.9 bits(154), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:59/187(32%), Positives:88/187(47%), Gaps:10/187(5%)
+
+Query  484      ELPVIGQLANTYILLEAPDG-LILIDQHAAHERIIFDALSFPAGGPARQRLIRPAVIDLP  542
+                 +  +GQ+ANTY++L   DG LIL+DQHAAHER+++  +       + Q L  P  + L 
+Sbjct  3333283  NMEYLGQVANTYLVLRDRDGALILLDQHAAHERVLYTRMRRGGFAGSGQLLALPLELSLH  3333104
+
+Query  543      PRDAAMLRRWLPLLEEIGVEIESFGGDSFVVHAVPAPLGECPPEGLVRELLASAIEGDDA  602
+                P +   L      LE +G   ES  G    V  +P  L        +RE LA        
+Sbjct  3333103  PAERERLFELRENLESLGFVFES-SGAGLEVRGMPPVLSRAEARDFLREALAG-------  3332948
+
+Query  603      PRWNVLGRLAKTAACHRAVRAGQrlrpeeirllleglDRTRFASTCPHGRPVWYKMTLSD  662
+                 R + L  +  + +C  A++AGQRL  +E   LL           CPHGRP   +    +
+Sbjct  3332947  -RKDDLAGMFISMSCKAAIKAGQRLTDDEAAGLLRQWLAAPDREYCPHGRPCVLRWDGPE  3332771
+
+Query  663      VARLFQR  669
+                + ++F+R
+Sbjct  3332770  LEKMFKR  3332750
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1408422 to 1409405
+
+Score:223 bits(568), Expect:4e-62, 
+Method:Compositional matrix adjust., 
+Identities:144/331(44%), Positives:192/331(58%), Gaps:9/331(2%)
+
+Query  2        ARITILPDILCNQIAAGEVVERPAAVAKELLENSIDAGARRISLSIADGGRKEIRVVDNG  61
+                + I +LP  L NQIAAGEVVERPA+V KEL+ENS+DA A +I + + +GG+  I V D+G
+Sbjct  1409405  SHIRLLPPELRNQIAAGEVVERPASVLKELVENSLDAQAGQIDVCLENGGQSRISVQDDG  1409226
+
+Query  62       SGMHPDDALLALERHATSKIRSIEDLQAIGSLGFRGEALPSIAAVSRFELVTREPDAVAG  121
+                 G+  +D  LA+ RHATSKIR +EDL+ I S GFRGEALPSIA+VSRF + +   DA AG
+Sbjct  1409225  RGIPAEDLELAVTRHATSKIRCLEDLERILSYGFRGEALPSIASVSRFTITSASQDA-AG  1409049
+
+Query  122      TFIrveggvvrevretgSPA----GTRITVRDLFYNVPARRKFLRAADTETAYICDQFQR  177
+                        V   + ++ SPA    GT + VRDLF N+PAR KFL+A  TE     D   R
+Sbjct  1409048  QAAAHRVEVEHGLLKSSSPAALHKGTLVEVRDLFSNIPARLKFLKAPSTEFRRAQDWLAR  1408869
+
+Query  178      LAMAHHAVHFQLINRERTQYDF-PGAASPEERAGQVLGAETLKRAI-PFCVENASARLRG  235
+                LA+    V F L + ER    F PG    E  A  VL    +  A+ PF       R  G
+Sbjct  1408868  LALTRPQVGFCLYSGEREALRFLPGQTLAERLA--VLWPRLIVDALRPFDGRRHGIRAHG  1408695
+
+Query  236      MVGTPDLQRANSHSLFVFVNGRPVWDRAVNRAILAAFESLIPRGKFPVAVLFLELDPLHV  295
+                +   P++ +     + ++VNGR V D+ +  A+  A++  +    +P   LF+E+DP  V
+Sbjct  1408694  LAALPNVSQPRGDRILLYVNGRSVTDKRLLAAVRQAYKGRMTSRDYPQIALFVEMDPAEV  1408515
+
+Query  296      DVNVHPTKREVRFKHPGGVIDTVRGAIRDAL  326
+                DVNVHP K EVRF+    V   V  A++ AL
+Sbjct  1408514  DVNVHPAKSEVRFRDESAVFSAVLHAVQGAL  1408422
+
+
+
+
+Range 2: 1407252 to 1407785
+
+Score:63.9 bits(154), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:59/187(32%), Positives:88/187(47%), Gaps:10/187(5%)
+
+Query  484      ELPVIGQLANTYILLEAPDG-LILIDQHAAHERIIFDALSFPAGGPARQRLIRPAVIDLP  542
+                 +  +GQ+ANTY++L   DG LIL+DQHAAHER+++  +       + Q L  P  + L 
+Sbjct  1407785  NMEYLGQVANTYLVLRDRDGALILLDQHAAHERVLYTRMRRGGFAGSGQLLALPLELSLH  1407606
+
+Query  543      PRDAAMLRRWLPLLEEIGVEIESFGGDSFVVHAVPAPLGECPPEGLVRELLASAIEGDDA  602
+                P +   L      LE +G   ES  G    V  +P  L        +RE LA        
+Sbjct  1407605  PAERERLFELRENLESLGFVFES-SGAGLEVRGMPPVLSRAEARDFLREALAG-------  1407450
+
+Query  603      PRWNVLGRLAKTAACHRAVRAGQrlrpeeirllleglDRTRFASTCPHGRPVWYKMTLSD  662
+                 R + L  +  + +C  A++AGQRL  +E   LL           CPHGRP   +    +
+Sbjct  1407449  -RKDDLAGMFISMSCKAAIKAGQRLTDDEAAGLLRQWLAAPDREYCPHGRPCVLRWDGPE  1407273
+
+Query  663      VARLFQR  669
+                + ++F+R
+Sbjct  1407272  LEKMFKR  1407252
+
+
+
+
+
+Query #49: 83R1|gi|116696516|gb|CP000478.1|Complete_49 Query ID: lcl|Query_158229 Length: 342
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     187    220   85%   3e-53 39.66  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     187    220   85%   3e-53 39.66  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 440562 to 441440
+
+Score:187 bits(474), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:117/295(40%), Positives:157/295(53%), Gaps:3/295(1%)
+
+Query  33      LPVVLVAGPTGVGKTAFAVELARALGSEIVNADSMQVYRHMDIGTAKPTPRERSAVPHHL  92
+               LPV+ +AGPTG GKTA A+ +A ALG E++NADS QVY      TA+P+  E +  PHHL
+Sbjct  441440  LPVICLAGPTGSGKTAAALAVAEALGGEVINADSRQVYADFPRITAQPSAEELACCPHHL  441261
+
+Query  93      IDIVDPDEPFDAGDYLARARPVIATLHEAGKVPIVVGGTGLYLKVLTRGICAGAPGDPDV  152
+                  +   +   AG + A+A+     +   GK+P++VGGTGLY + L  G     P DP +
+Sbjct  441260  YGFLPTAQKISAGRWAAQAQATARQILSRGKIPLLVGGTGLYFQTLLHGTAEIPPVDPAL  441081
+
+Query  153     RRRLIEEELTLGLPALHERLRDVDPPLGARIHPNDRQRILRALEVFHHSGKPLSYWQRQH  212
+                  L      +G  A+H  L  VDP    RIHPNDRQRI+RALEV   +GKP ++W + H
+Sbjct  441080  TAALTARLEDVGSQAMHAELARVDPDYATRIHPNDRQRIVRALEVHAATGKPFTWWHK-H  440904
+
+Query  213     RFEDAPYRTLKIFLHRPREVLYARINDRVDAMMAQGFLDEVRNLLAMGCGPELKP-MQSL  271
+                    P     + L  P   L  R+  R+D M+  G +DE    L   C  +  P    +
+Sbjct  440903  AMSRPPCNGPLLVLDAPLPWLEPRLARRLDMMLESGAMDEAAAAL-RNCDDDDAPGWTGI  440727
+
+Query  272     GYRQMARHLRGEMSLDEAVNEIRRDTRRYAKRQLTWFRADPEYRWFDAADTHGLV  326
+               G  +    LRG +  D   +   R+TR YAKRQLTWFRA PE  W    +   +V
+Sbjct  440726  GCAEALAFLRGRLGFDACRDLWLRNTRAYAKRQLTWFRARPEAVWLPPDNVDAVV  440562
+
+
+
+
+Range 2: 1058904 to 1058978
+
+Score:33.5 bits(75), Expect:0.045, 
+Method:Compositional matrix adjust., 
+Identities:14/25(56%), Positives:18/25(72%), Gaps:0/25(0%)
+
+Query  34       PVVLVAGPTGVGKTAFAVELARALG  58
+                P++  AGP GVGKT+    +ARALG
+Sbjct  1058978  PILCFAGPPGVGKTSLGRSVARALG  1058904
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1930015 to 1930893
+
+Score:187 bits(474), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:117/295(40%), Positives:157/295(53%), Gaps:3/295(1%)
+
+Query  33       LPVVLVAGPTGVGKTAFAVELARALGSEIVNADSMQVYRHMDIGTAKPTPRERSAVPHHL  92
+                LPV+ +AGPTG GKTA A+ +A ALG E++NADS QVY      TA+P+  E +  PHHL
+Sbjct  1930893  LPVICLAGPTGSGKTAAALAVAEALGGEVINADSRQVYADFPRITAQPSAEELACCPHHL  1930714
+
+Query  93       IDIVDPDEPFDAGDYLARARPVIATLHEAGKVPIVVGGTGLYLKVLTRGICAGAPGDPDV  152
+                   +   +   AG + A+A+     +   GK+P++VGGTGLY + L  G     P DP +
+Sbjct  1930713  YGFLPTAQKISAGRWAAQAQATARQILSRGKIPLLVGGTGLYFQTLLHGTAEIPPVDPAL  1930534
+
+Query  153      RRRLIEEELTLGLPALHERLRDVDPPLGARIHPNDRQRILRALEVFHHSGKPLSYWQRQH  212
+                   L      +G  A+H  L  VDP    RIHPNDRQRI+RALEV   +GKP ++W + H
+Sbjct  1930533  TAALTARLEDVGSQAMHAELARVDPDYATRIHPNDRQRIVRALEVHAATGKPFTWWHK-H  1930357
+
+Query  213      RFEDAPYRTLKIFLHRPREVLYARINDRVDAMMAQGFLDEVRNLLAMGCGPELKP-MQSL  271
+                     P     + L  P   L  R+  R+D M+  G +DE    L   C  +  P    +
+Sbjct  1930356  AMSRPPCNGPLLVLDAPLPWLEPRLARRLDMMLESGAMDEAAAAL-RNCDDDDAPGWTGI  1930180
+
+Query  272      GYRQMARHLRGEMSLDEAVNEIRRDTRRYAKRQLTWFRADPEYRWFDAADTHGLV  326
+                G  +    LRG +  D   +   R+TR YAKRQLTWFRA PE  W    +   +V
+Sbjct  1930179  GCAEALAFLRGRLGFDACRDLWLRNTRAYAKRQLTWFRARPEAVWLPPDNVDAVV  1930015
+
+
+
+
+Range 2: 2549713 to 2549787
+
+Score:33.5 bits(75), Expect:0.045, 
+Method:Compositional matrix adjust., 
+Identities:14/25(56%), Positives:18/25(72%), Gaps:0/25(0%)
+
+Query  34       PVVLVAGPTGVGKTAFAVELARALG  58
+                P++  AGP GVGKT+    +ARALG
+Sbjct  2549787  PILCFAGPPGVGKTSLGRSVARALG  2549713
+
+
+
+
+
+Query #50: 83R1|gi|116696516|gb|CP000478.1|Complete_50 Query ID: lcl|Query_158230 Length: 378
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     409    409   100%  6e-130 53.10  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     409    409   100%  6e-130 53.10  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 157439 to 158641
+
+Score:409 bits(1050), Expect:6e-130, 
+Method:Compositional matrix adjust., 
+Identities:214/403(53%), Positives:273/403(67%), Gaps:27/403(6%)
+
+Query  1       MTFDLSNIETPCYVVDEAALDRNLAVLDTVRQRTGCRILMALKGFAMFSLFPQIREV---  57
+               + FD + I +PC+V+DE  L  N AVL++V++RTG +IL+ALKG+A +  FP +      
+Sbjct  158641  LLFDPARIPSPCFVLDENQLSANAAVLNSVQERTGAKILLALKGYAAWGTFPLLSRFKGH  158462
+
+Query  58      --LAGVAASSPDEARLGFEEFRGEVHAYAPAYRESELTELLEYCDHLVFNSFSQWNRF--  113
+                 L G  ASS DEARL  EEF GEVHA+A  +   E+ ELL   DH+VFNS +QW  F  
+Sbjct  158461  GPLWGACASSVDEARLAREEFGGEVHAFAAGWNRREMAELLTLTDHIVFNSTAQWREFAP  158282
+
+Query  114     ------KSRVFDHPAPVRCGIRVNPEHSEVSVPIYDPCARFSRLGVPRSAFREEDLDGIS  167
+                     K R  D    ++CG+R+NPEHSE +V IY+PCA  SRLG+ R  F    + GIS
+Sbjct  158281  AIAMWNKGRCPDRQ--IQCGLRINPEHSEGAVEIYNPCAPGSRLGIRRKHFDPTAMTGIS  158108
+
+Query  168     GLHFHTLCELDADSLERTLAAFETRFGAFLERMEWVNFGGGHHITRPDYDVDLLCRLIDD  227
+               GLHFHTLCE  AD+LERTLAA E+ FG +L +  W+N GGGHHIT+P YD+DLLCRL+  
+Sbjct  158107  GLHFHTLCEQGADALERTLAAVESHFGQWLPQCRWINMGGGHHITKPGYDLDLLCRLLTQ  157928
+
+Query  228     FRSRHPLEIYLEPGEAVALNTGILGASVLDLIHNEMDIAILDTSAAAHMPDVLEMPYRPE  287
+               +R R+  +IYLEPGEAVAL+ G L A+VLD+I  +M IAILD     HMPDV+EMPYRP 
+Sbjct  157927  WRDRYQAQIYLEPGEAVALDAGWLVATVLDVIEADMPIAILDIGIPCHMPDVIEMPYRPR  157748
+
+Query  288     I----DG----AGMPGEYPHTYRLGGLTCLAGDVIGDYSFPEPLRIGSKLAFLDMAHYTM  339
+               +    DG    AG  G+   T RL G +CLAGDV G+YSF  PL+ G +L F DMA Y+M
+Sbjct  157747  VRYEHDGAAVLAGEAGQKAWTCRLAGKSCLAGDVAGEYSFDAPLKPGQRLVFEDMAIYSM  157568
+
+Query  340     VKNNTFNGVRLPSIAI--RDRRGNV--RVVRKFGYEDYRNRLS  378
+               VK  TFNG+RLPSI I   D  G++  R++R+FGY +++NRLS
+Sbjct  157567  VKTTTFNGLRLPSIGICGPDAAGDMYFRMLREFGYANFKNRLS  157439
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1646882 to 1648084
+
+Score:409 bits(1050), Expect:6e-130, 
+Method:Compositional matrix adjust., 
+Identities:214/403(53%), Positives:273/403(67%), Gaps:27/403(6%)
+
+Query  1        MTFDLSNIETPCYVVDEAALDRNLAVLDTVRQRTGCRILMALKGFAMFSLFPQIREV---  57
+                + FD + I +PC+V+DE  L  N AVL++V++RTG +IL+ALKG+A +  FP +      
+Sbjct  1648084  LLFDPARIPSPCFVLDENQLSANAAVLNSVQERTGAKILLALKGYAAWGTFPLLSRFKGH  1647905
+
+Query  58       --LAGVAASSPDEARLGFEEFRGEVHAYAPAYRESELTELLEYCDHLVFNSFSQWNRF--  113
+                  L G  ASS DEARL  EEF GEVHA+A  +   E+ ELL   DH+VFNS +QW  F  
+Sbjct  1647904  GPLWGACASSVDEARLAREEFGGEVHAFAAGWNRREMAELLTLTDHIVFNSTAQWREFAP  1647725
+
+Query  114      ------KSRVFDHPAPVRCGIRVNPEHSEVSVPIYDPCARFSRLGVPRSAFREEDLDGIS  167
+                      K R  D    ++CG+R+NPEHSE +V IY+PCA  SRLG+ R  F    + GIS
+Sbjct  1647724  AIAMWNKGRCPDRQ--IQCGLRINPEHSEGAVEIYNPCAPGSRLGIRRKHFDPTAMTGIS  1647551
+
+Query  168      GLHFHTLCELDADSLERTLAAFETRFGAFLERMEWVNFGGGHHITRPDYDVDLLCRLIDD  227
+                GLHFHTLCE  AD+LERTLAA E+ FG +L +  W+N GGGHHIT+P YD+DLLCRL+  
+Sbjct  1647550  GLHFHTLCEQGADALERTLAAVESHFGQWLPQCRWINMGGGHHITKPGYDLDLLCRLLTQ  1647371
+
+Query  228      FRSRHPLEIYLEPGEAVALNTGILGASVLDLIHNEMDIAILDTSAAAHMPDVLEMPYRPE  287
+                +R R+  +IYLEPGEAVAL+ G L A+VLD+I  +M IAILD     HMPDV+EMPYRP 
+Sbjct  1647370  WRDRYQAQIYLEPGEAVALDAGWLVATVLDVIEADMPIAILDIGIPCHMPDVIEMPYRPR  1647191
+
+Query  288      I----DG----AGMPGEYPHTYRLGGLTCLAGDVIGDYSFPEPLRIGSKLAFLDMAHYTM  339
+                +    DG    AG  G+   T RL G +CLAGDV G+YSF  PL+ G +L F DMA Y+M
+Sbjct  1647190  VRYEHDGAAVLAGEAGQKAWTCRLAGKSCLAGDVAGEYSFDAPLKPGQRLVFEDMAIYSM  1647011
+
+Query  340      VKNNTFNGVRLPSIAI--RDRRGNV--RVVRKFGYEDYRNRLS  378
+                VK  TFNG+RLPSI I   D  G++  R++R+FGY +++NRLS
+Sbjct  1647010  VKTTTFNGLRLPSIGICGPDAAGDMYFRMLREFGYANFKNRLS  1646882
+
+
+
+
+
+Query #51: 83R1|gi|116696516|gb|CP000478.1|Complete_51 Query ID: lcl|Query_158231 Length: 124
+
+No significant similarity found.
+
+
+
+Query #52: 83R1|gi|116696516|gb|CP000478.1|Complete_52 Query ID: lcl|Query_158232 Length: 449
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     520    520   86%   2e-167 62.06  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     520    520   86%   2e-167 62.06  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 159575 to 160768
+
+Score:520 bits(1338), Expect:2e-167, 
+Method:Compositional matrix adjust., 
+Identities:255/398(64%), Positives:312/398(78%), Gaps:8/398(2%)
+
+Query  54      KGVAMSKVLIIgaggvggvvTHKCAQVP---EVFSEITLASRTLSKCERIRDQI-AR---  106
+               +G AM+ +LIIGAGGVG VV HKCAQV    +VF++ITLASRT+S+C+ I   + AR   
+Sbjct  160768  EGRAMANILIIGAGGVGSVVVHKCAQVAANGDVFNKITLASRTVSRCDAIAQSVKARYGV  160589
+
+Query  107     PIRVERVDADNVPELVALIRAVKPDVIINVALPYQDLSIMEACLETGVDYLDTANYEPPD  166
+                +   +VDADNVPEL  LIR+VKPD++ NVALPYQDL IM+ACLE GV Y+DTANYEP D
+Sbjct  160588  DVATAKVDADNVPELCQLIRSVKPDLVCNVALPYQDLHIMDACLECGVHYVDTANYEPLD  160409
+
+Query  167     EARFCYKWQWDYHDRFREKGLMALLGCGFDPGVTNIYCAHALQKHFDAVHAIDIMDCNAG  226
+                A+F YKWQW Y DRFRE GL ALLG GFDPGVTN++ A  ++   D VH +DI+DCNAG
+Sbjct  160408  TAKFEYKWQWAYADRFREAGLTALLGSGFDPGVTNVFAAWVMKHELDEVHVLDIIDCNAG  160229
+
+Query  227     EHGHPFATNFNPEINIREVTARGKYWENGQWLETEPLCVHETFDFPE-IGPREMYLMYHE  285
+               +HG PFATNFNPEINIREVTARG+YWE G+W+ET+PL     FDFP  IG ++ +LMYHE
+Sbjct  160228  DHGQPFATNFNPEINIREVTARGRYWERGEWVETDPLSWSMNFDFPSGIGSKKCFLMYHE  160049
+
+Query  286     ELESLVKHIPGLRRIRFWMTFGQEYLTHLRVLQNVGMTRIDPVSFQGCRIVPLQFLKALL  345
+               ELESLVK++ GLRR RFWMTF   YL HL+VL NVGMTRIDPV+FQG  IVP+QFL  LL
+Sbjct  160048  ELESLVKNLKGLRRARFWMTFSDNYLNHLKVLGNVGMTRIDPVNFQGQDIVPIQFLSKLL  159869
+
+Query  346     PEPSSLGANYRGKTCIGCMITGTKEGKPRKYFIYNVCDHAEAYREVKAQAISYTTGVPAM  405
+               P+P+SLG   +GKTCIG ++ G K+GK +  +IYN+CDH   Y EV +QAISYTTGVPAM
+Sbjct  159868  PDPASLGPLTKGKTCIGDLMRGVKDGKEKTVYIYNICDHEACYAEVGSQAISYTTGVPAM  159689
+
+Query  406     LGAQLMLTGKWRGRGVFNVEQFDPSPFMERIGGYGLPW  443
+               +G++++  G WR  GV+N+EQFDP PF++ +G YGLPW
+Sbjct  159688  IGSKMVAEGVWRKPGVWNMEQFDPDPFLKDLGTYGLPW  159575
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 1649019 to 1650212
+
+Score:520 bits(1338), Expect:2e-167, 
+Method:Compositional matrix adjust., 
+Identities:255/398(64%), Positives:312/398(78%), Gaps:8/398(2%)
+
+Query  54       KGVAMSKVLIIgaggvggvvTHKCAQVP---EVFSEITLASRTLSKCERIRDQI-AR---  106
+                +G AM+ +LIIGAGGVG VV HKCAQV    +VF++ITLASRT+S+C+ I   + AR   
+Sbjct  1650212  EGRAMANILIIGAGGVGSVVVHKCAQVAANGDVFNKITLASRTVSRCDAIAQSVKARYGV  1650033
+
+Query  107      PIRVERVDADNVPELVALIRAVKPDVIINVALPYQDLSIMEACLETGVDYLDTANYEPPD  166
+                 +   +VDADNVPEL  LIR+VKPD++ NVALPYQDL IM+ACLE GV Y+DTANYEP D
+Sbjct  1650032  DVATAKVDADNVPELCQLIRSVKPDLVCNVALPYQDLHIMDACLECGVHYVDTANYEPLD  1649853
+
+Query  167      EARFCYKWQWDYHDRFREKGLMALLGCGFDPGVTNIYCAHALQKHFDAVHAIDIMDCNAG  226
+                 A+F YKWQW Y DRFRE GL ALLG GFDPGVTN++ A  ++   D VH +DI+DCNAG
+Sbjct  1649852  TAKFEYKWQWAYADRFREAGLTALLGSGFDPGVTNVFAAWVMKHELDEVHVLDIIDCNAG  1649673
+
+Query  227      EHGHPFATNFNPEINIREVTARGKYWENGQWLETEPLCVHETFDFPE-IGPREMYLMYHE  285
+                +HG PFATNFNPEINIREVTARG+YWE G+W+ET+PL     FDFP  IG ++ +LMYHE
+Sbjct  1649672  DHGQPFATNFNPEINIREVTARGRYWERGEWVETDPLSWSMNFDFPSGIGSKKCFLMYHE  1649493
+
+Query  286      ELESLVKHIPGLRRIRFWMTFGQEYLTHLRVLQNVGMTRIDPVSFQGCRIVPLQFLKALL  345
+                ELESLVK++ GLRR RFWMTF   YL HL+VL NVGMTRIDPV+FQG  IVP+QFL  LL
+Sbjct  1649492  ELESLVKNLKGLRRARFWMTFSDNYLNHLKVLGNVGMTRIDPVNFQGQDIVPIQFLSKLL  1649313
+
+Query  346      PEPSSLGANYRGKTCIGCMITGTKEGKPRKYFIYNVCDHAEAYREVKAQAISYTTGVPAM  405
+                P+P+SLG   +GKTCIG ++ G K+GK +  +IYN+CDH   Y EV +QAISYTTGVPAM
+Sbjct  1649312  PDPASLGPLTKGKTCIGDLMRGVKDGKEKTVYIYNICDHEACYAEVGSQAISYTTGVPAM  1649133
+
+Query  406      LGAQLMLTGKWRGRGVFNVEQFDPSPFMERIGGYGLPW  443
+                +G++++  G WR  GV+N+EQFDP PF++ +G YGLPW
+Sbjct  1649132  IGSKMVAEGVWRKPGVWNMEQFDPDPFLKDLGTYGLPW  1649019
+
+
+
+
+
+Query #53: 83R1|gi|116696516|gb|CP000478.1|Complete_53 Query ID: lcl|Query_158233 Length: 416
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Desulfovibrio sp. G11 chromosome, complete genome                 Desulfovibri... NA              631220     73.9   119   52%   1e-14 31.25  3414934    CP023415.1       
+Desulfovibrio sp. G11 isolate G11PacBio genome assembly,...       Desulfovibri... NA              631220     73.9   119   52%   1e-14 31.25  3416440    LT984798.1       
+
+
+Alignments:
+>Desulfovibrio sp. G11 chromosome, complete genome
+Sequence ID: CP023415.1 Length: 3414934 
+Range 1: 2403790 to 2404407
+
+Score:73.9 bits(180), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:70/224(31%), Positives:99/224(44%), Gaps:22/224(9%)
+
+Query  157      KVAVVTGGASGIGLAMTELMLGFGAVVIMADINETGLNAESARLEEQYPGKVFARKTDIG  216
+                +  +VTG   GIG A+    L  GA  I A   +T  + E  R  E    K+   + DI 
+Sbjct  2403790  QTILVTGANGGIGKALINAFLAAGAKKIYACARDTA-SLEHLRNNE----KILPVQLDIS  2403954
+
+Query  217      KADEVKALVDHAVEKGGRLDLMFNNAGLG----LTKPIDQITMDDWKFAFDVNFYGALYG  272
+                K     A +++ V   G   ++ NNAG+G    L  P         +   +VN++G L  
+Sbjct  2403955  K----PAAIENVVAACGDTTILVNNAGMGGSGLLGAP------QAARAEMEVNYFGTL-A  2404101
+
+Query  273      TLEARRVMRAQGGGGHIANTASGIAFAPMPLQAMYSATKAALHALTLSLRAECWDENIFL  332
+                   A   +    GGG I N  S I    MP    Y A+KAALH+LT  LR     +   +
+Sbjct  2404102  MCSAFAPVLGNNGGGCIVNIISVIGLVNMPSIGTYCASKAALHSLTQGLRGVLAGQKTTV  2404281
+
+Query  333      HSVIPGTVATPIFAGSRVPKGALKPEESARVILEKVKDNMRIVF  376
+                  V PG V T +  G  +PK   +PE  A  ILE +K+    ++
+Sbjct  2404282  IGVYPGPVDTRMTDGLEMPKA--RPEAVALEILEGMKNGTEDIY  2404407
+
+
+
+
+Range 2: 1261414 to 1262067
+
+Score:45.8 bits(107), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:58/229(25%), Positives:99/229(43%), Gaps:23/229(10%)
+
+Query  160      VVTGGASGIGLAMTELMLGFGAVVIMADINETGLNAESARLEEQYPGKVFARKTDIGKAD  219
+                ++TG    +G A+       G ++ +       L++ SA+ + +   +V  +  D+ + D
+Sbjct  1261414  LITGATGSLGGALALEYAAPGMLLTLTGRKPEVLSSLSAQCQAK-GAQVHTKALDLQQRD  1261590
+
+Query  220      EVKALVDHAVEKGGRLDLMFNNAG-------LGLTKPIDQITMDDWKFAFDVNFYGALY-  271
+                 V+  +    E     D++   AG       +   +P  ++     +   +VN    +  
+Sbjct  1261591  AVRQWIAEICEVDAP-DMLIATAGRNTSIGPVAAGEPFSEV-----EALVEVNLLATMAL  1261752
+
+Query  272      --GTLEARRVMRAQGGGGHIANTASGIAFAPMPLQAMYSATKAALHALTLSLRAECWDEN  329
+                  G L A R    + G G IA  +S  ++  +P    Y ATKAAL     SLR     E 
+Sbjct  1261753  VDGVLPAMR----KRGSGQIAIISSLASYYGLPTTPAYCATKAALRTWGTSLRGWLQSEG  1261920
+
+Query  330      IFLHSVIPGTVATPIFAGSRVPKGAL-KPEESARVILEKVKDNM-RIVF  376
+                I ++ V+PG VA+ +      PK  L +P  +ARVI   ++ N  RI F
+Sbjct  1261921  IRVNVVLPGYVASSMCDAMPGPKPFLWQPGRAARVIRRGLERNWARISF  1262067
+
+
+
+>Desulfovibrio sp. G11 isolate G11PacBio genome assembly, chromosome: 1
+Sequence ID: LT984798.1 Length: 3416440 
+Range 1: 478221 to 478838
+
+Score:73.9 bits(180), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:70/224(31%), Positives:99/224(44%), Gaps:22/224(9%)
+
+Query  157     KVAVVTGGASGIGLAMTELMLGFGAVVIMADINETGLNAESARLEEQYPGKVFARKTDIG  216
+               +  +VTG   GIG A+    L  GA  I A   +T  + E  R  E    K+   + DI 
+Sbjct  478221  QTILVTGANGGIGKALINAFLAAGAKKIYACARDTA-SLEHLRNNE----KILPVQLDIS  478385
+
+Query  217     KADEVKALVDHAVEKGGRLDLMFNNAGLG----LTKPIDQITMDDWKFAFDVNFYGALYG  272
+               K     A +++ V   G   ++ NNAG+G    L  P         +   +VN++G L  
+Sbjct  478386  K----PAAIENVVAACGDTTILVNNAGMGGSGLLGAP------QAARAEMEVNYFGTL-A  478532
+
+Query  273     TLEARRVMRAQGGGGHIANTASGIAFAPMPLQAMYSATKAALHALTLSLRAECWDENIFL  332
+                  A   +    GGG I N  S I    MP    Y A+KAALH+LT  LR     +   +
+Sbjct  478533  MCSAFAPVLGNNGGGCIVNIISVIGLVNMPSIGTYCASKAALHSLTQGLRGVLAGQKTTV  478712
+
+Query  333     HSVIPGTVATPIFAGSRVPKGALKPEESARVILEKVKDNMRIVF  376
+                 V PG V T +  G  +PK   +PE  A  ILE +K+    ++
+Sbjct  478713  IGVYPGPVDTRMTDGLEMPKA--RPEAVALEILEGMKNGTEDIY  478838
+
+
+
+
+Range 2: 2752237 to 2752890
+
+Score:45.8 bits(107), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:58/229(25%), Positives:99/229(43%), Gaps:23/229(10%)
+
+Query  160      VVTGGASGIGLAMTELMLGFGAVVIMADINETGLNAESARLEEQYPGKVFARKTDIGKAD  219
+                ++TG    +G A+       G ++ +       L++ SA+ + +   +V  +  D+ + D
+Sbjct  2752237  LITGATGSLGGALALEYAAPGMLLTLTGRKPEVLSSLSAQCQAK-GAQVHTKALDLQQRD  2752413
+
+Query  220      EVKALVDHAVEKGGRLDLMFNNAG-------LGLTKPIDQITMDDWKFAFDVNFYGALY-  271
+                 V+  +    E     D++   AG       +   +P  ++     +   +VN    +  
+Sbjct  2752414  AVRQWIAEICEVDAP-DMLIATAGRNTSIGPVAAGEPFSEV-----EALVEVNLLATMAL  2752575
+
+Query  272      --GTLEARRVMRAQGGGGHIANTASGIAFAPMPLQAMYSATKAALHALTLSLRAECWDEN  329
+                  G L A R    + G G IA  +S  ++  +P    Y ATKAAL     SLR     E 
+Sbjct  2752576  VDGVLPAMR----KRGSGQIAIISSLASYYGLPTTPAYCATKAALRTWGTSLRGWLQSEG  2752743
+
+Query  330      IFLHSVIPGTVATPIFAGSRVPKGAL-KPEESARVILEKVKDNM-RIVF  376
+                I ++ V+PG VA+ +      PK  L +P  +ARVI   ++ N  RI F
+Sbjct  2752744  IRVNVVLPGYVASSMCDAMPGPKPFLWQPGRAARVIRRGLERNWARISF  2752890
+
+
+
+
+
+Query #54: 83R1|gi|116696516|gb|CP000478.1|Complete_54 Query ID: lcl|Query_158234 Length: 426
+
+No significant similarity found.
+
+
+
+Query #55: 83R1|gi|116696516|gb|CP000478.1|Complete_55 Query ID: lcl|Query_158235 Length: 788
+
+No significant similarity found.
+
+
+
+
+
+		
+
+
